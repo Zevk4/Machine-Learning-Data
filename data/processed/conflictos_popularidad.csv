@@ -1,0 +1,721 @@
+track_id,n_registros_originales,n_registros_diferentes,generos_observados,n_generos,popularidad_min,popularidad_max,popularidad_mediana,n_popularidades_distintas,diferencia_popularidad,atributos_discordantes,n_atributos_discordantes,incremento_max_vs_mediana
+2qESE1ZeWly7I3YjyTXmXh,2,2,"[""acoustic"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+72R0X0h8YaxYNpegeoOl0M,3,3,"[""acoustic"", ""punk"", ""punk-rock""]",3,60,61,61.0,2,1,[],0,0.0
+3BGxXQJWeLAEcwNKRFUxYA,3,3,"[""afrobeat"", ""dub"", ""samba""]",3,37,38,38.0,2,1,[],0,0.0
+2zQt5C0AIv27RhfJCRZdZ4,3,3,"[""afrobeat"", ""dub"", ""samba""]",3,38,39,39.0,2,1,[],0,0.0
+3MZm4t1kRJ2e5JyaYQpjrF,3,3,"[""afrobeat"", ""dub"", ""ska""]",3,33,34,34.0,2,1,[],0,0.0
+0y1QJc3SJVPKJ1OvFmFqe6,4,4,"[""alt-rock"", ""alternative"", ""indie"", ""rock""]",4,77,78,78.0,2,1,[],0,0.0
+7uCBGNn991AM68fR4tSDco,3,3,"[""alt-rock"", ""alternative"", ""rock""]",3,68,69,69.0,2,1,[],0,0.0
+75fT19n6ZQHr67Mkh86qfD,5,5,"[""alt-rock"", ""alternative"", ""funk"", ""metal"", ""rock""]",5,2,3,2.0,2,1,[],0,1.0
+1yZWmKmLfTrFCxHvhFsdoN,3,3,"[""alt-rock"", ""alternative"", ""rock""]",3,0,1,0.0,2,1,[],0,1.0
+1bOENKlPYEDXyH9kLFUsnj,5,5,"[""alt-rock"", ""alternative"", ""grunge"", ""metal"", ""rock""]",5,3,4,3.0,2,1,[],0,1.0
+6ehaWPjsNSf5HWOXTEFSUi,4,4,"[""alt-rock"", ""alternative"", ""dance"", ""rock""]",4,0,1,0.0,2,1,[],0,1.0
+0v8tmDMQrTMavluubqAJo4,5,5,"[""alt-rock"", ""alternative"", ""funk"", ""metal"", ""rock""]",5,1,4,1.0,2,3,[],0,3.0
+7oMO1B9CB4ZPYPLeVe32OY,5,5,"[""alt-rock"", ""alternative"", ""indie"", ""indie-pop"", ""rock""]",5,0,1,0.0,2,1,[],0,1.0
+1l1ra0gsPlpnDOc4HdkKZU,4,4,"[""alt-rock"", ""alternative"", ""power-pop"", ""rock""]",4,0,1,0.0,2,1,[],0,1.0
+3kQhWtoluFHPbcBC6gyYrZ,5,5,"[""alt-rock"", ""alternative"", ""indie"", ""latin"", ""rock""]",5,0,1,0.0,2,1,[],0,1.0
+11jMqNuaE2vTsBBjESguoL,5,5,"[""alt-rock"", ""alternative"", ""latin"", ""rock"", ""ska""]",5,0,1,0.0,2,1,[],0,1.0
+2Ns9vtFyKhGoI0vCFLHQOR,5,5,"[""alt-rock"", ""alternative"", ""latin"", ""rock"", ""ska""]",5,0,1,0.0,2,1,[],0,1.0
+6VuztO5yaKP4VjqSkZxpan,3,3,"[""alt-rock"", ""alternative"", ""rock""]",3,68,69,69.0,2,1,[],0,0.0
+42Jkqzhm5Y7ab7f1d22GTq,4,4,"[""alt-rock"", ""alternative"", ""latin"", ""rock""]",4,2,3,2.0,2,1,[],0,1.0
+582QmuQapDg7uo1jcAKsgN,5,5,"[""alt-rock"", ""alternative"", ""hard-rock"", ""metal"", ""rock""]",5,0,1,0.0,2,1,[],0,1.0
+14dJexYlvd3t3XAtD1pYW1,3,3,"[""alt-rock"", ""alternative"", ""rock""]",3,76,77,76.0,2,1,[],0,1.0
+0fYVliAYKHuPmECRs1pbRf,3,3,"[""alt-rock"", ""alternative"", ""rock""]",3,75,76,76.0,2,1,[],0,0.0
+1lYHv3SEkE6wKfZRe0HMOG,3,3,"[""alt-rock"", ""alternative"", ""rock""]",3,1,2,1.0,2,1,[],0,1.0
+1EWRXz6c0WPKae8vziEnZi,3,3,"[""alt-rock"", ""alternative"", ""world-music""]",3,1,3,1.0,2,2,[],0,2.0
+1GN7Kn9Hr4pOpVVxBL1ZUD,3,3,"[""alt-rock"", ""alternative"", ""world-music""]",3,0,1,0.0,2,1,[],0,1.0
+4k2AjlWruIygEiZyJEy01I,5,5,"[""alt-rock"", ""alternative"", ""brazil"", ""mpb"", ""r-n-b""]",5,50,51,51.0,2,1,[],0,0.0
+6VQW8Ye28Crwz90BIexsrF,3,3,"[""alt-rock"", ""alternative"", ""ska""]",3,0,1,0.0,2,1,[],0,1.0
+3QoydK0LFOpK0JnfIpCffR,4,4,"[""alt-rock"", ""brazil"", ""hard-rock"", ""r-n-b""]",4,47,48,48.0,2,1,[],0,0.0
+7sC2sL3Q5cZswDQJfnlfOt,4,4,"[""alt-rock"", ""brazil"", ""hard-rock"", ""r-n-b""]",4,47,48,48.0,2,1,[],0,0.0
+5d9RSSwDvlTyuwfmeafUah,2,2,"[""alt-rock"", ""world-music""]",2,54,55,54.5,2,1,[],0,0.5
+2NV0oNAYgjlN27SeNIo8bL,4,4,"[""alt-rock"", ""brazil"", ""r-n-b"", ""reggae""]",4,47,48,47.5,2,1,[],0,0.5
+4ElNxglBjcrASiGn58t9Jm,2,2,"[""alt-rock"", ""world-music""]",2,64,65,64.5,2,1,[],0,0.5
+0jwIgZRcbW2VjYuCbhKnX5,3,3,"[""alt-rock"", ""punk"", ""punk-rock""]",3,44,45,45.0,2,1,[],0,0.0
+7wEKVEEo4Vmn1qNvL7AZNf,2,2,"[""alt-rock"", ""ska""]",2,44,45,44.5,2,1,[],0,0.5
+4dyx5SzxPPaD8xQIid5Wjj,3,3,"[""alt-rock"", ""r-n-b"", ""swedish""]",3,75,76,75.0,2,1,[],0,1.0
+0UvMeaPWStJGuXMe89bAoJ,2,2,"[""alt-rock"", ""ska""]",2,44,45,44.5,2,1,[],0,0.5
+26ZzSLUJMmYp5u1hDELEWH,4,4,"[""alternative"", ""hardcore"", ""indie"", ""r-n-b""]",4,75,76,76.0,2,1,[],0,0.0
+1peoY67DcWdCsNoOzF9ffU,4,4,"[""alternative"", ""hardcore"", ""indie"", ""r-n-b""]",4,6,7,6.0,2,1,[],0,1.0
+4yqNNPoc2JCqHwp3EDLrXE,2,2,"[""alternative"", ""trip-hop""]",2,1,2,1.5,2,1,[],0,0.5
+6G2IXaarVeVde7CaMOxvNh,5,5,"[""alternative"", ""emo"", ""metal"", ""punk"", ""ska""]",5,1,2,1.0,2,1,[],0,1.0
+6CW9qtzZpHZ3o39BYlpU0x,2,2,"[""ambient"", ""world-music""]",2,53,54,53.5,2,1,[],0,0.5
+6HRU0CPcG0q3Dq8XVBWacL,2,2,"[""ambient"", ""world-music""]",2,56,57,56.5,2,1,[],0,0.5
+0bT6empnTxGJlNQEvDaGWr,2,2,"[""ambient"", ""synth-pop""]",2,3,4,3.5,2,1,[],0,0.5
+3ExKJt4K8duUfEG49QWzPi,2,2,"[""ambient"", ""world-music""]",2,50,51,50.5,2,1,[],0,0.5
+6I7nESv5d9zf9DcEA9I25u,3,3,"[""ambient"", ""minimal-techno"", ""techno""]",3,53,54,54.0,2,1,[],0,0.0
+2ZUEopklc3lUm4OXUPB6WS,2,2,"[""ambient"", ""world-music""]",2,54,55,54.5,2,1,[],0,0.5
+7v8wKvNQQIxkugCFFjrkaO,4,4,"[""anime"", ""j-pop"", ""j-rock"", ""rock""]",4,76,77,77.0,2,1,[],0,0.0
+5RhWszHMSKzb7KiXk4Ae0M,4,4,"[""anime"", ""j-pop"", ""singer-songwriter"", ""songwriter""]",4,64,65,64.5,2,1,[],0,0.5
+5gUxxioIeJdr61AgjVYznI,2,2,"[""anime"", ""sad""]",2,43,44,43.5,2,1,[],0,0.5
+1PHqmiRTZnqHZkkR9Zjtvh,2,2,"[""black-metal"", ""industrial""]",2,24,25,24.5,2,1,[],0,0.5
+5MAK1nd8R6PWnle1Q1WJvh,2,2,"[""blues"", ""rock""]",2,76,77,76.5,2,1,[],0,0.5
+1xj7USYBhbTPsZDiy8gVcb,3,3,"[""blues"", ""jazz"", ""soul""]",3,0,1,0.0,2,1,[],0,1.0
+3RXAcz7Sa6JDZSxcH1EEQ6,4,4,"[""blues"", ""r-n-b"", ""rock-n-roll"", ""rockabilly""]",4,0,1,0.0,2,1,[],0,1.0
+4aqS25F3ywJ9TGnNkOqilC,7,7,"[""blues"", ""country"", ""folk"", ""hard-rock"", ""psych-rock"", ""singer-songwriter"", ""songwriter""]",7,2,3,2.0,2,1,[],0,1.0
+3xMQOd1C3TXsjQ3pmzOmkC,3,3,"[""blues"", ""garage"", ""punk-rock""]",3,60,61,61.0,2,1,[],0,0.0
+1PXsUXSM3LF2XNSkmIldPb,3,3,"[""blues"", ""garage"", ""punk-rock""]",3,65,66,66.0,2,1,[],0,0.0
+1kBM7AURqQTIXFePNVpEwP,3,3,"[""blues"", ""garage"", ""punk-rock""]",3,55,56,56.0,2,1,[],0,0.0
+0ganZjtkMwkoRvYQk7te7h,3,3,"[""brazil"", ""r-n-b"", ""reggae""]",3,48,49,48.0,2,1,[],0,1.0
+1jdAzKbRRrIQ3fpodftKfj,3,3,"[""brazil"", ""mpb"", ""r-n-b""]",3,48,49,49.0,2,1,[],0,0.0
+22QdpwlY4mNXPhl2j9RfgD,3,3,"[""brazil"", ""r-n-b"", ""reggae""]",3,47,48,47.0,2,1,[],0,1.0
+2mNw979gQkL6Z6mCxgCect,3,3,"[""brazil"", ""r-n-b"", ""reggae""]",3,47,48,47.0,2,1,[],0,1.0
+3aTJREDBpFWYhR5m4i48jO,3,3,"[""brazil"", ""r-n-b"", ""reggae""]",3,46,47,47.0,2,1,[],0,0.0
+7DGiwSAi7JqgndlMXcXTHE,3,3,"[""brazil"", ""mpb"", ""reggae""]",3,45,46,46.0,2,1,[],0,0.0
+1235OqEAiQvJp7jAmc96dN,4,4,"[""brazil"", ""hard-rock"", ""punk"", ""punk-rock""]",4,45,46,46.0,2,1,[],0,0.0
+2ebiTufOHJ3fZZTI43NwKX,2,2,"[""brazil"", ""r-n-b""]",2,46,47,46.5,2,1,[],0,0.5
+3myP5D9V78ayZyEb7cUGRw,3,3,"[""brazil"", ""mpb"", ""r-n-b""]",3,45,46,46.0,2,1,[],0,0.0
+6BO1F7s14ZehAecywx99G6,3,3,"[""brazil"", ""mpb"", ""r-n-b""]",3,46,47,47.0,2,1,[],0,0.0
+6DCDSMe7pvGeK5J9a9OoIo,4,4,"[""brazil"", ""mpb"", ""r-n-b"", ""ska""]",4,44,45,44.5,2,1,[],0,0.5
+4GxFCitrF1Fu9qycAv8A3R,2,2,"[""brazil"", ""reggae""]",2,43,44,43.5,2,1,[],0,0.5
+3L6EOy5OG9JetMXAbEJQu9,2,2,"[""brazil"", ""r-n-b""]",2,43,44,43.5,2,1,[],0,0.5
+52VgFTD7QmOmAPJZfxnPVK,2,2,"[""brazil"", ""r-n-b""]",2,43,44,43.5,2,1,[],0,0.5
+5r0x87jwTbkVjA3FQNOykz,3,3,"[""brazil"", ""r-n-b"", ""reggae""]",3,44,45,44.0,2,1,[],0,1.0
+0VpcSl7QEqVEiAZLQFW0rm,4,4,"[""brazil"", ""mpb"", ""samba"", ""soul""]",4,43,44,43.5,2,1,[],0,0.5
+5kNCog1amNsI8z2iD5634p,3,3,"[""brazil"", ""mpb"", ""r-n-b""]",3,45,46,46.0,2,1,[],0,0.0
+4CwqO0iNCHRA4fATRPs79R,2,2,"[""brazil"", ""reggae""]",2,43,44,43.5,2,1,[],0,0.5
+29RKQaclcGpj1stafjGHAZ,2,2,"[""brazil"", ""reggae""]",2,43,44,43.5,2,1,[],0,0.5
+4kNbUaQeaG8pc2W82ukGyh,2,2,"[""brazil"", ""gospel""]",2,43,44,43.5,2,1,[],0,0.5
+1FGNS493UKaQOSLLy5JBId,3,3,"[""brazil"", ""mpb"", ""r-n-b""]",3,43,44,44.0,2,1,[],0,0.0
+3vc1sGOGAVxhx8S1kERqyn,4,4,"[""breakbeat"", ""hard-rock"", ""hardcore"", ""techno""]",4,51,52,52.0,2,1,[],0,0.0
+5HWR5bZ3SBN6zA6zHJS3Y6,2,2,"[""breakbeat"", ""trip-hop""]",2,42,43,42.5,2,1,[],0,0.5
+7lbP23HcKWPfXz5R1dR685,2,2,"[""breakbeat"", ""trip-hop""]",2,18,19,18.5,2,1,[],0,0.5
+0gplL1WMoJ6iYaPgMCL0gX,2,2,"[""british"", ""soul""]",2,84,85,84.5,2,1,[],0,0.5
+6VObnIkLVruX4UVyxWhlqm,2,2,"[""british"", ""soul""]",2,77,78,77.5,2,1,[],0,0.5
+48CKzGWOC65n8a8kdANJV8,2,2,"[""british"", ""soul""]",2,76,77,76.5,2,1,[],0,0.5
+0j5pajJcigjdwO4c8ZS19b,4,4,"[""british"", ""singer-songwriter"", ""songwriter"", ""soul""]",4,9,10,10.0,2,1,[],0,0.0
+0rGKn11s2zrmePIA82ldEP,2,2,"[""british"", ""rock""]",2,1,2,1.5,2,1,[],0,0.5
+66llZ6MdjJy5q2jWwgJpcW,2,2,"[""british"", ""rock""]",2,1,2,1.5,2,1,[],0,0.5
+6dsmAUGQAng00srCMvfd8z,2,2,"[""british"", ""rock""]",2,3,4,3.5,2,1,[],0,0.5
+32kz93hA4ac01juOqcSItF,2,2,"[""british"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+0Z5ok0QLLttAKsujOZYOXf,2,2,"[""british"", ""soul""]",2,73,74,73.5,2,1,[],0,0.5
+7oOEFDLSQscl0uGulnIEmG,2,2,"[""british"", ""soul""]",2,64,65,64.5,2,1,[],0,0.5
+476V2d6iA2tWXgQboKmTtA,4,4,"[""british"", ""folk"", ""singer-songwriter"", ""songwriter""]",4,73,74,73.5,2,1,[],0,0.5
+4KROoGIaPaR1pBHPnR3bwC,4,4,"[""british"", ""folk"", ""singer-songwriter"", ""songwriter""]",4,69,70,69.5,2,1,[],0,0.5
+13J9mjAQNq6vmq0ni3PmCA,2,2,"[""british"", ""r-n-b""]",2,32,33,32.5,2,1,[],0,0.5
+1FuZ8H0Ts3799ZNVN5ZcSZ,3,3,"[""british"", ""rock-n-roll"", ""rockabilly""]",3,34,35,34.0,2,1,[],0,1.0
+4VEEDnEFLI9dUy5QA51rom,2,2,"[""chill"", ""sad""]",2,68,69,68.5,2,1,[],0,0.5
+4xxg28R4JsE5OSyDFlZEmZ,3,2,"[""chill"", ""soul""]",2,0,1,0.5,2,1,[],0,0.5
+6FxdAycUNPT8gHH5JhG2xI,2,2,"[""chill"", ""soul""]",2,66,67,66.5,2,1,[],0,0.5
+6jmf4OxSGzdgthZruXtcqu,3,3,"[""chill"", ""emo"", ""sad""]",3,68,69,69.0,2,1,[],0,0.0
+4iF2TMFaiJwEHecDNavRU9,2,2,"[""chill"", ""sad""]",2,59,60,59.5,2,1,[],0,0.5
+17eeKDTWiREsr23gIYahtE,2,2,"[""chill"", ""sad""]",2,59,60,59.5,2,1,[],0,0.5
+2DOdnZIgqRPq95tDc26Kgm,2,2,"[""chill"", ""soul""]",2,17,19,18.0,2,2,[],0,1.0
+6jBjT54uoj1ortBRNOKXaj,2,2,"[""chill"", ""soul""]",2,39,40,39.5,2,1,[],0,0.5
+2ZwIO3ufWLFYxtEoam9ydu,2,2,"[""chill"", ""soul""]",2,69,70,69.5,2,1,[],0,0.5
+65tHfVat89WdgeWoHaPUXU,2,2,"[""chill"", ""soul""]",2,57,58,57.5,2,1,[],0,0.5
+2wBybutNwHICv22FLTjyhh,2,2,"[""chill"", ""sad""]",2,48,49,48.5,2,1,[],0,0.5
+4NHsEHQtUKErl9uXA6Y0nm,2,2,"[""chill"", ""sad""]",2,56,57,56.5,2,1,[],0,0.5
+3DwkoCj5vhaKzgdbEpoDIu,2,2,"[""chill"", ""sad""]",2,2,4,3.0,2,2,[],0,1.0
+1glms9EfGPeDFhBWT3ym7f,2,2,"[""chill"", ""sad""]",2,21,22,21.5,2,1,[],0,0.5
+2lCsTpkit36cAJ0pSEpzr4,2,2,"[""chill"", ""sad""]",2,57,58,57.5,2,1,[],0,0.5
+0f0gfm6wHjhqrBMHBn9Ajr,2,2,"[""chill"", ""sad""]",2,60,61,60.5,2,1,[],0,0.5
+7gu0zaym9C9Kp1va4ZeYXR,2,2,"[""chill"", ""sad""]",2,58,59,58.5,2,1,[],0,0.5
+1VhGRC4yzcDFBM4yQSpUGg,2,2,"[""chill"", ""soul""]",2,59,60,59.5,2,1,[],0,0.5
+4QdV0xTf6iPrrtVNf2Gsnm,2,2,"[""chill"", ""sad""]",2,40,41,40.5,2,1,[],0,0.5
+6m37YblnnlJ1x7DfTc3Vj0,2,2,"[""chill"", ""sad""]",2,60,61,60.5,2,1,[],0,0.5
+1vNqZdnSaRIMAoVW9oJR2d,2,2,"[""chill"", ""sad""]",2,49,50,49.5,2,1,[],0,0.5
+0irTtcKzsy7I8QVdoGWv77,2,2,"[""chill"", ""sad""]",2,50,51,50.5,2,1,[],0,0.5
+4PwkiQyE09iOcKameCkQAF,2,2,"[""chill"", ""sad""]",2,57,58,57.5,2,1,[],0,0.5
+3pvXNqXnuDJgkG1ZDwhQ9E,2,2,"[""chill"", ""sad""]",2,45,46,45.5,2,1,[],0,0.5
+1XtKDLAUMpkP7d5As2tMdo,3,3,"[""chill"", ""emo"", ""sad""]",3,54,55,55.0,2,1,[],0,0.0
+28ZQZTC6RVfXEFzpR4YwXB,2,2,"[""chill"", ""sad""]",2,46,47,46.5,2,1,[],0,0.5
+4iST4hmZvl0qWEgnjSQMIT,2,2,"[""chill"", ""sad""]",2,8,9,8.5,2,1,[],0,0.5
+31MZVljIC0y0wUpgafrw8Z,2,2,"[""chill"", ""sad""]",2,13,14,13.5,2,1,[],0,0.5
+14GkOLSlvq2Q09fFbIgK2u,2,2,"[""chill"", ""sad""]",2,13,14,13.5,2,1,[],0,0.5
+6IKFQoaB3qXwybUDKncXml,2,2,"[""chill"", ""sad""]",2,8,9,8.5,2,1,[],0,0.5
+491c4G5XxA8I80zNvR1rLR,3,3,"[""chill"", ""emo"", ""sad""]",3,54,55,55.0,2,1,[],0,0.0
+1SJkTuUNKe4rYQgX8wmqku,2,2,"[""chill"", ""sad""]",2,57,58,57.5,2,1,[],0,0.5
+2GtksLOwApBFKXsm4jsw8o,2,2,"[""chill"", ""sad""]",2,51,52,51.5,2,1,[],0,0.5
+79GBhyAo9KAuMH3oztkJjb,2,2,"[""chill"", ""sad""]",2,47,48,47.5,2,1,[],0,0.5
+5H0kIgpWNZm9HF6VkU4dow,2,2,"[""club"", ""techno""]",2,42,43,42.5,2,1,[],0,0.5
+7m0ZqFw6SHoAvtEccpMOs3,2,2,"[""country"", ""rock""]",2,1,2,1.5,2,1,[],0,0.5
+014SIjoLDG1Ku19c5FlDYh,2,2,"[""country"", ""rock""]",2,0,3,1.5,2,3,[],0,1.5
+0BIpEYy15QaMusucc8H0l7,2,2,"[""country"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+5OLWhgBWQYUN6llsmYkPGp,2,2,"[""country"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+2LawezPeJhN4AWuSB0GtAU,2,2,"[""country"", ""rock""]",2,83,84,83.5,2,1,[],0,0.5
+3Lu4WAsmpag6CZSN0H3Wor,3,3,"[""country"", ""psych-rock"", ""rock""]",3,0,1,0.0,2,1,[],0,1.0
+1QbOvACeYanja5pbnJbAmk,4,4,"[""country"", ""folk"", ""singer-songwriter"", ""songwriter""]",4,74,75,74.5,2,1,[],0,0.5
+2einB00Doep8LZImPipb9r,4,4,"[""country"", ""folk"", ""singer-songwriter"", ""songwriter""]",4,1,2,1.5,2,1,[],0,0.5
+17M1JFSr2eEvo5dQnCIQim,5,5,"[""country"", ""disco"", ""folk"", ""singer-songwriter"", ""songwriter""]",5,55,56,56.0,2,1,[],0,0.0
+6NJOOWpT5g3Y46G2qtRejH,4,4,"[""dance"", ""edm"", ""house"", ""trance""]",4,0,2,0.0,2,2,[],0,2.0
+1vXNHt7Vj7U75R0qV2YrOu,4,4,"[""dance"", ""edm"", ""house"", ""trance""]",4,1,2,1.0,2,1,[],0,1.0
+0j1oGNwg8VVosfPezkrSni,4,4,"[""dance"", ""edm"", ""house"", ""trance""]",4,0,1,0.0,2,1,[],0,1.0
+43ZXaExiD5ExmSpmPK5aQZ,4,4,"[""dance"", ""edm"", ""house"", ""trance""]",4,1,2,1.0,2,1,[],0,1.0
+0EKqoSFmZW4dqaJvlEJtMe,3,3,"[""dance"", ""hip-hop"", ""soul""]",3,3,4,3.0,2,1,[],0,1.0
+21NimLGgXhfEbIXsIiPHXy,3,3,"[""dance"", ""hip-hop"", ""soul""]",3,2,3,2.0,2,1,[],0,1.0
+1rIKgCH4H52lrvDcz50hS8,5,5,"[""dance"", ""edm"", ""electro"", ""house"", ""swedish""]",5,77,78,78.0,2,1,[],0,0.0
+5k0xcYedZDXWe48vkgehCc,2,2,"[""dancehall"", ""reggae""]",2,59,60,59.5,2,1,[],0,0.5
+57UPqpbJiPqtwJVk5VmjhJ,3,3,"[""dancehall"", ""j-dance"", ""reggae""]",3,2,3,2.0,2,1,[],0,1.0
+3OB8tXG4qxdvs5Y9cZDsMa,4,4,"[""dancehall"", ""j-dance"", ""j-rock"", ""reggae""]",4,48,49,49.0,2,1,[],0,0.0
+2M8hNjSSsRP89aFs3ISIrS,2,2,"[""dancehall"", ""swedish""]",2,3,4,3.5,2,1,[],0,0.5
+0X9MmC3La4fWsaceYFHwWK,2,2,"[""dancehall"", ""swedish""]",2,35,36,35.5,2,1,[],0,0.5
+5N5CCm7QFaZaqYlmZOAU0i,2,2,"[""dancehall"", ""ska""]",2,32,33,32.5,2,1,[],0,0.5
+7n6FiTKMPLDZNjvmhVuxSu,2,2,"[""dancehall"", ""j-dance""]",2,24,25,24.5,2,1,[],0,0.5
+05lem7bHWxyo98HOwPmils,2,2,"[""death-metal"", ""swedish""]",2,48,49,48.5,2,1,[],0,0.5
+3WtsQAngIkmcNeqVeK3fXQ,3,3,"[""death-metal"", ""metal"", ""swedish""]",3,52,53,53.0,2,1,[],0,0.0
+5qEZvemAAeZ8E9KmyyGaLe,3,3,"[""death-metal"", ""goth"", ""swedish""]",3,58,59,58.0,2,1,[],0,1.0
+5ilKR6ucV43TXQFLoLVpsb,2,2,"[""deep-house"", ""turkish""]",2,56,57,56.5,2,1,[],0,0.5
+1PrXSvX8N0SlQNQ4jMrCSb,2,2,"[""deep-house"", ""turkish""]",2,58,59,58.5,2,1,[],0,0.5
+6OLIEGHsA4WMbedcjY3Ncr,3,3,"[""deep-house"", ""progressive-house"", ""trance""]",3,40,41,40.0,2,1,[],0,1.0
+3uFvywKU5OfmVJTY5rfoa8,4,4,"[""deep-house"", ""minimal-techno"", ""progressive-house"", ""techno""]",4,1,2,1.0,2,1,[],0,1.0
+1S7hEPenrIVKVTuEjtXKz9,2,2,"[""deep-house"", ""swedish""]",2,58,59,58.5,2,1,[],0,0.5
+1xlXvK3CtEGFttrOPijgCS,2,2,"[""deep-house"", ""turkish""]",2,52,53,52.5,2,1,[],0,0.5
+30hKEQLgr25oI91btWLvCi,2,2,"[""deep-house"", ""turkish""]",2,56,57,56.5,2,1,[],0,0.5
+73RyhUtQnXgHB0Ko51EniR,3,3,"[""deep-house"", ""disco"", ""techno""]",3,46,47,46.0,2,1,[],0,1.0
+0QZdbOtajbimysXPJDkU3H,3,3,"[""deep-house"", ""disco"", ""techno""]",3,56,57,57.0,2,1,[],0,0.0
+1NiTCVNzyE6Q3ld9Yv8hir,3,3,"[""deep-house"", ""minimal-techno"", ""techno""]",3,39,40,40.0,2,1,[],0,0.0
+3829oHimRwuUHePcD2Jj7S,2,2,"[""detroit-techno"", ""techno""]",2,51,52,51.5,2,1,[],0,0.5
+0vB4Vd6PtkJSEnWsmqATnZ,6,6,"[""disco"", ""funk"", ""guitar"", ""j-rock"", ""jazz"", ""soul""]",6,70,71,71.0,2,1,[],0,0.0
+2shdj27ClUe4ETiBQXGLdQ,2,2,"[""disco"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+3tgVp3M5fgSNhEUE1iMILQ,2,2,"[""disco"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+3RIocixkIDei7AF3roZIPA,3,3,"[""disco"", ""funk"", ""soul""]",3,0,1,1.0,2,1,[],0,0.0
+1DDjP27UEP7avthMjxfOtU,3,3,"[""disco"", ""funk"", ""soul""]",3,0,1,1.0,2,1,[],0,0.0
+5C93WFYiyIBX7rwhEAdHsd,2,2,"[""disco"", ""synth-pop""]",2,0,1,0.5,2,1,[],0,0.5
+3XDeeP9wBZzGhIPZmLfEEx,2,2,"[""disco"", ""synth-pop""]",2,60,61,60.5,2,1,[],0,0.5
+3EGI5qmVmGlfgy9BmNb1R8,2,2,"[""disco"", ""synth-pop""]",2,68,69,68.5,2,1,[],0,0.5
+6cARFkZxx2JR3JlvDzeLZc,2,2,"[""disco"", ""synth-pop""]",2,59,60,59.5,2,1,[],0,0.5
+05UkW0aWSlpxcOlT3NtJ1N,2,2,"[""disco"", ""synth-pop""]",2,29,30,29.5,2,1,[],0,0.5
+2stkLJ0JNcXkIRDNF3ld6c,3,3,"[""disney"", ""singer-songwriter"", ""songwriter""]",3,70,71,70.0,2,1,[],0,1.0
+4SB6mnmUDaJbB0OiyJ23N9,2,2,"[""disney"", ""show-tunes""]",2,38,39,38.5,2,1,[],0,0.5
+4qqfI5oNO53a6W7nWfutKH,2,2,"[""disney"", ""show-tunes""]",2,59,60,59.5,2,1,[],0,0.5
+56OLAHwj0Y4wqJFfsf08rD,2,2,"[""disney"", ""show-tunes""]",2,23,24,23.5,2,1,[],0,0.5
+04VFfRka9MBc5qlRcDuV8T,2,2,"[""disney"", ""show-tunes""]",2,21,22,21.5,2,1,[],0,0.5
+2Mw8xQJpIDAgrktDXEqxCs,2,2,"[""dub"", ""ska""]",2,51,52,51.5,2,1,[],0,0.5
+6IhHyxeOqS6LKgP2Lawj55,3,3,"[""dub"", ""dubstep"", ""trance""]",3,55,56,56.0,2,1,[],0,0.0
+6AkEP2vEcpTRn2ilHVPNsa,3,3,"[""dub"", ""dubstep"", ""trance""]",3,55,56,56.0,2,1,[],0,0.0
+1Wt8OoQoQ2DsoPHs0TdOHn,3,3,"[""dub"", ""dubstep"", ""trance""]",3,0,8,0.0,2,8,[],0,8.0
+2CfNnviw8KsMGGcJ5RtZ61,3,3,"[""dub"", ""dubstep"", ""trance""]",3,49,50,49.0,2,1,[],0,1.0
+0pMqxVqhkyRGPeeNqgsLS8,3,3,"[""dub"", ""dubstep"", ""trance""]",3,24,25,24.0,2,1,[],0,1.0
+2ji53kdnw4UtV6PIt94MLq,3,3,"[""dub"", ""dubstep"", ""trance""]",3,0,1,0.0,2,1,[],0,1.0
+25ysC9uw0bpwgcxOhnrwjk,3,3,"[""dub"", ""dubstep"", ""trance""]",3,0,1,0.0,2,1,[],0,1.0
+3TNUCQeXAALQrTw7ANSEoB,3,3,"[""dub"", ""dubstep"", ""trance""]",3,0,1,0.0,2,1,[],0,1.0
+7nudwi49ZHlgt6AtNNgVnJ,3,3,"[""dub"", ""dubstep"", ""trance""]",3,0,17,0.0,2,17,[],0,17.0
+0tWAGWvw3WWySN5fXfW1jO,3,3,"[""dub"", ""dubstep"", ""trance""]",3,18,19,18.0,2,1,[],0,1.0
+4YsKbWkeQD3SoKVhbJ5fPu,3,3,"[""dub"", ""dubstep"", ""trance""]",3,0,1,0.0,2,1,[],0,1.0
+0P2HpJnPusLZ01iBlPG2HR,3,3,"[""dub"", ""dubstep"", ""trance""]",3,0,1,0.0,2,1,[],0,1.0
+0BkfeemCDp8WmuKVnrwBaN,3,3,"[""dub"", ""dubstep"", ""trance""]",3,0,1,0.0,2,1,[],0,1.0
+4zBXE3hymk2qz1LIk9Swph,3,3,"[""dub"", ""dubstep"", ""trance""]",3,0,1,0.0,2,1,[],0,1.0
+6zJob7NjhfptpxyO0SgTyu,3,3,"[""dub"", ""dubstep"", ""trance""]",3,0,1,0.0,2,1,[],0,1.0
+4HGq8ZzrPOtXxNEXN4XGFu,6,5,"[""edm"", ""electro"", ""german"", ""house"", ""techno""]",5,0,1,0.0,2,1,[],0,1.0
+2ISSQPb9LHHiV6ng2NXosL,5,5,"[""edm"", ""electro"", ""german"", ""house"", ""techno""]",5,69,70,70.0,2,1,[],0,0.0
+0RTqRMNHselkQSCxbnsGYz,2,2,"[""edm"", ""turkish""]",2,51,52,51.5,2,1,[],0,0.5
+2xkrujtSjZz7EKAYGbIIzH,3,3,"[""edm"", ""progressive-house"", ""trance""]",3,67,68,68.0,2,1,[],0,0.0
+0OZYXc58HooMgBNWyp6cuO,2,2,"[""electro"", ""pop""]",2,2,3,2.5,2,1,[],0,0.5
+0bYsT1b741xstgFwe4WoKp,6,6,"[""electro"", ""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",6,7,8,7.0,2,1,[],0,1.0
+3Eo7rOfvXRzGq68b9PVfZE,6,6,"[""electro"", ""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",6,2,3,2.0,2,1,[],0,1.0
+434VcYrm3FPRRiW4jw5nLb,6,6,"[""electro"", ""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",6,2,3,2.0,2,1,[],0,1.0
+1dvlY1iYFNgO7SFWRGHB3x,6,6,"[""electro"", ""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",6,1,2,1.0,2,1,[],0,1.0
+7z1uUb32IxZvJ97Fk86igf,6,6,"[""electro"", ""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",6,0,2,0.0,2,2,[],0,2.0
+0dkvbYmXYEPK7gGMdytmfI,4,4,"[""electro"", ""indie"", ""indie-pop"", ""swedish""]",4,74,75,75.0,2,1,[],0,0.0
+2jRISGsO4RTm9CQVb1Jusn,2,2,"[""electro"", ""swedish""]",2,59,60,59.5,2,1,[],0,0.5
+78iVPIyFgGjQ0g0TmDWYtQ,5,5,"[""electro"", ""electronic"", ""garage"", ""indie"", ""soul""]",5,63,64,64.0,2,1,[],0,0.0
+7cEbICGWeFyBTmijsRtbjr,2,2,"[""electronic"", ""techno""]",2,55,56,55.5,2,1,[],0,0.5
+1fmoCZ6mtMiqA5GHWPcZz9,3,3,"[""electronic"", ""minimal-techno"", ""techno""]",3,61,62,62.0,2,1,[],0,0.0
+04IUJPcxiUuXih8eJIVzGz,3,3,"[""electronic"", ""german"", ""techno""]",3,1,2,1.0,2,1,[],0,1.0
+3LpIXpas8lnDrUDqOYyB7u,2,2,"[""electronic"", ""trip-hop""]",2,45,46,45.5,2,1,[],0,0.5
+6eNbZHgy85Hsw6JGME1j6P,3,3,"[""electronic"", ""french"", ""techno""]",3,0,1,0.0,2,1,[],0,1.0
+6zjFDWbTd9W8BAYUfDOc4B,2,2,"[""electronic"", ""techno""]",2,26,27,26.5,2,1,[],0,0.5
+2sW8fmnISifQTRgnRrQTYW,2,2,"[""electronic"", ""trip-hop""]",2,63,64,63.5,2,1,[],0,0.5
+5ARrtxJLVCeTv5TWo1oKgC,2,2,"[""electronic"", ""trip-hop""]",2,63,64,63.5,2,1,[],0,0.5
+1QxcWlk8PivolUaWcpAoNq,2,2,"[""electronic"", ""trip-hop""]",2,66,67,66.5,2,1,[],0,0.5
+3AaGCSpUFAmtB1XGxz5IWk,2,2,"[""electronic"", ""trip-hop""]",2,59,60,59.5,2,1,[],0,0.5
+0j2BydmlwcMqffV08hFDyI,2,2,"[""emo"", ""sad""]",2,64,65,64.5,2,1,[],0,0.5
+46s77n3x4XZqUhZfIOCax9,2,2,"[""emo"", ""sad""]",2,58,59,58.5,2,1,[],0,0.5
+2IoSxedPj3lZVul8qUyWZF,3,3,"[""emo"", ""punk"", ""punk-rock""]",3,44,45,45.0,2,1,[],0,0.0
+0qJOO0qpBFmR1vXf4rMRuj,2,2,"[""emo"", ""sad""]",2,49,50,49.5,2,1,[],0,0.5
+7CpeDdqQP8iZc7cEC3eaLz,2,2,"[""emo"", ""sad""]",2,54,55,54.5,2,1,[],0,0.5
+05ztmc9JMq8pYE2GyY72Zd,2,2,"[""emo"", ""sad""]",2,49,50,49.5,2,1,[],0,0.5
+6gqZzQyJfKqdc9boOILz4x,3,3,"[""emo"", ""punk"", ""punk-rock""]",3,53,54,54.0,2,1,[],0,0.0
+3IsElc2ardSjI3qVPHsFwB,2,2,"[""emo"", ""sad""]",2,56,57,56.5,2,1,[],0,0.5
+6VyUWfImAgTrYAnYWonuhM,2,2,"[""emo"", ""sad""]",2,57,58,57.5,2,1,[],0,0.5
+6P8zr1ghnd78EPhUO8axDm,2,2,"[""emo"", ""sad""]",2,53,54,53.5,2,1,[],0,0.5
+1FonRAk9xtzJZbGCslpaZ9,2,2,"[""emo"", ""sad""]",2,48,49,48.5,2,1,[],0,0.5
+1ufGqwim7RHxVsdaxuLmAY,2,2,"[""emo"", ""sad""]",2,55,56,55.5,2,1,[],0,0.5
+5PlTDE2RLbcC9vBzbGAG4y,2,2,"[""emo"", ""sad""]",2,56,57,56.5,2,1,[],0,0.5
+6PAr1wwpxJQhHn2c6wKN4O,2,2,"[""emo"", ""sad""]",2,54,55,54.5,2,1,[],0,0.5
+0qy1xNhQvnRhEpvKxdXYUR,2,2,"[""emo"", ""sad""]",2,55,56,55.5,2,1,[],0,0.5
+2wSEG8f9WIqyrdlXjdxzGu,2,2,"[""emo"", ""sad""]",2,53,54,53.5,2,1,[],0,0.5
+6A4cQ6n7R5Kws0Gsan7gCF,2,2,"[""emo"", ""punk-rock""]",2,37,38,37.5,2,1,[],0,0.5
+1JmEymqQwLXvCg3sJ7gz0n,2,2,"[""emo"", ""sad""]",2,57,58,57.5,2,1,[],0,0.5
+4co218tAwJM5xQrczWhkZk,2,2,"[""emo"", ""sad""]",2,54,55,54.5,2,1,[],0,0.5
+4KMR0q5skgPUVS1e1IgCJJ,2,2,"[""emo"", ""sad""]",2,43,44,43.5,2,1,[],0,0.5
+6CV34A2xO8SOZw4RqSSUOe,2,2,"[""emo"", ""punk-rock""]",2,23,24,23.5,2,1,[],0,0.5
+4DqNBM2oUr5R87cUd2E3P6,2,2,"[""emo"", ""sad""]",2,41,42,41.5,2,1,[],0,0.5
+0v9efJ1lA4yhp3P2PLNKqM,2,2,"[""emo"", ""sad""]",2,56,57,56.5,2,1,[],0,0.5
+1gWtHDe403RuyZqhvSRcv8,6,6,"[""folk"", ""indian"", ""indie"", ""indie-pop"", ""singer-songwriter"", ""songwriter""]",6,55,56,56.0,2,1,[],0,0.0
+1VyiUi0mRnSKgtHa5dBoUd,4,4,"[""folk"", ""indie"", ""indie-pop"", ""rock""]",4,63,64,63.0,2,1,[],0,1.0
+0pdKRp2sUthTPe7RLWpPqQ,4,4,"[""folk"", ""indie"", ""indie-pop"", ""swedish""]",4,74,75,75.0,2,1,[],0,0.0
+4U45aEWtQhrm8A5mxPaFZ7,5,5,"[""folk"", ""piano"", ""rock"", ""singer-songwriter"", ""songwriter""]",5,78,79,78.0,2,1,[],0,1.0
+5WaXrtRow1brEASUZsKgCW,5,5,"[""folk"", ""indie"", ""rock"", ""singer-songwriter"", ""songwriter""]",5,1,2,2.0,2,1,[],0,0.0
+75ArcxyPjMr0sleM5WXLn7,3,3,"[""folk"", ""singer-songwriter"", ""songwriter""]",3,0,1,1.0,2,1,[],0,0.0
+6iWEhoALoBFnQMNVhYY0Sc,3,3,"[""folk"", ""indie-pop"", ""swedish""]",3,67,68,68.0,2,1,[],0,0.0
+13W4Zc0dy3tzOzlKyuIsMh,3,3,"[""folk"", ""mpb"", ""sertanejo""]",3,49,50,50.0,2,1,[],0,0.0
+6oMZhY0f1ReI6AJDDYfuSb,3,3,"[""folk"", ""singer-songwriter"", ""songwriter""]",3,52,53,52.0,2,1,[],0,1.0
+2ol1ST9LqK6gR7QOp03exs,2,2,"[""folk"", ""turkish""]",2,44,45,44.5,2,1,[],0,0.5
+0tnMpHtgVUrSfMOrtIhhmy,3,3,"[""folk"", ""singer-songwriter"", ""songwriter""]",3,34,35,34.0,2,1,[],0,1.0
+1ZzSy8HeLFZAeuQi577bhB,3,3,"[""folk"", ""singer-songwriter"", ""songwriter""]",3,44,45,44.0,2,1,[],0,1.0
+7nzeIh8kUdieUBLPXch9wi,3,3,"[""folk"", ""singer-songwriter"", ""songwriter""]",3,44,45,44.0,2,1,[],0,1.0
+6ydqEdlzueCGmQE2oosecr,4,4,"[""folk"", ""jazz"", ""singer-songwriter"", ""songwriter""]",4,44,45,44.5,2,1,[],0,0.5
+4r4APlZYwRDLt0m91auppo,2,2,"[""folk"", ""soul""]",2,31,32,31.5,2,1,[],0,0.5
+27LtwN20Rvhi6LVmUaaucZ,5,5,"[""folk"", ""j-pop"", ""j-rock"", ""jazz"", ""turkish""]",5,44,45,45.0,2,1,[],0,0.0
+7MB82aWojKYntOXvQUogZM,3,3,"[""forro"", ""pagode"", ""sertanejo""]",3,51,52,52.0,2,1,[],0,0.0
+4VWlZb7Xiq1Im9Abzhe9fp,2,2,"[""forro"", ""sertanejo""]",2,56,57,56.5,2,1,[],0,0.5
+2EiVLz6irHr0sYvhiHubCh,2,2,"[""forro"", ""sertanejo""]",2,48,49,48.5,2,1,[],0,0.5
+1yNstWFOG0z4CFkJrusyzP,3,3,"[""forro"", ""pagode"", ""sertanejo""]",3,50,51,51.0,2,1,[],0,0.0
+20Mxqxf2u0Q6gNteDiViGm,2,2,"[""forro"", ""sertanejo""]",2,48,49,48.5,2,1,[],0,0.5
+7EMxCYKxcJ0tk8t8fBTzCw,2,2,"[""forro"", ""sertanejo""]",2,46,47,46.5,2,1,[],0,0.5
+1rxu8cAylRlZ9OJBxwxnbL,2,2,"[""forro"", ""sertanejo""]",2,46,47,46.5,2,1,[],0,0.5
+54pqWohuwelL4bDqYpOwZG,2,2,"[""forro"", ""sertanejo""]",2,46,47,46.5,2,1,[],0,0.5
+1cKtQSJ8pMVErEIJzTYsSe,2,2,"[""forro"", ""sertanejo""]",2,46,47,46.5,2,1,[],0,0.5
+2XzRnzuIgpZGqco2rMTQbS,2,2,"[""forro"", ""sertanejo""]",2,45,46,45.5,2,1,[],0,0.5
+3CeuBr3AaQm0Ke4t1W536Q,2,2,"[""forro"", ""sertanejo""]",2,45,46,45.5,2,1,[],0,0.5
+6EEDuy7cieppsAqgEvCkkL,3,3,"[""forro"", ""mpb"", ""samba""]",3,40,41,41.0,2,1,[],0,0.0
+2jrtlEsTbL8g4aGbOnCyMb,2,2,"[""forro"", ""samba""]",2,38,39,38.5,2,1,[],0,0.5
+1gCP90gwbynaN4zaaMQU7L,3,3,"[""funk"", ""indie"", ""soul""]",3,0,1,0.0,2,1,[],0,1.0
+6uoc1lU3r0pkC7lHhpSgTT,4,4,"[""funk"", ""punk"", ""punk-rock"", ""rock""]",4,0,1,0.5,2,1,[],0,0.5
+4YEA9DzQt60W0Q34Dw1O5f,2,2,"[""funk"", ""soul""]",2,0,1,0.5,2,1,[],0,0.5
+0zcISkfQxGkJHxpziO8fu6,2,2,"[""funk"", ""soul""]",2,0,1,0.5,2,1,[],0,0.5
+1D18MMOF1hNEurbJPv0QCH,2,2,"[""funk"", ""sertanejo""]",2,49,50,49.5,2,1,[],0,0.5
+0jyk4jjgm4j1gUqMg4Z7Tw,3,3,"[""funk"", ""pagode"", ""sertanejo""]",3,48,49,49.0,2,1,[],0,0.0
+4isHeZRxdYw7IgGvl8OPwq,2,2,"[""funk"", ""ska""]",2,49,50,49.5,2,1,[],0,0.5
+7aeHztFLa7y9oRCmnJiS7U,2,2,"[""funk"", ""ska""]",2,46,47,46.5,2,1,[],0,0.5
+086myS9r57YsLbJpU0TgK9,3,3,"[""garage"", ""indie"", ""rock""]",3,87,88,88.0,2,1,[],0,0.0
+7A7FsIDnBMnz1PAnSOxUdh,3,3,"[""garage"", ""indie"", ""rock""]",3,58,61,58.0,2,3,[],0,3.0
+7DPhusadsTZ2VrXOGcuX2y,3,3,"[""garage"", ""indie"", ""rock""]",3,63,65,63.0,2,2,[],0,2.0
+03mHinvLdrdSTd7w4GPXwH,3,3,"[""garage"", ""indie"", ""rock""]",3,56,58,56.0,2,2,[],0,2.0
+0C6dSPCqwKqwos6s1CrDrh,3,3,"[""garage"", ""indie"", ""rock""]",3,0,42,0.0,2,42,[],0,42.0
+5fClRRa7P9nPIpstj50veV,3,3,"[""garage"", ""indie"", ""rock""]",3,0,40,0.0,2,40,[],0,40.0
+0z5x3VmmQ7cyTeOP7VAf3T,3,3,"[""garage"", ""indie"", ""rock""]",3,0,40,0.0,2,40,[],0,40.0
+42GuKw49pPxNAkIhWGwgFs,3,3,"[""garage"", ""indie"", ""rock""]",3,0,39,0.0,2,39,[],0,39.0
+5hljqZrl0h7RcIhUnOPuve,3,3,"[""garage"", ""indie"", ""rock""]",3,0,44,0.0,2,44,[],0,44.0
+5ygEUpyZy5qtZ1423zymBW,3,3,"[""garage"", ""indie"", ""rock""]",3,0,41,0.0,2,41,[],0,41.0
+1zx6GSqLYI2ynzAHnPRKBR,3,3,"[""garage"", ""indie"", ""rock""]",3,0,41,0.0,2,41,[],0,41.0
+4KPi4VNvPOfKqIp1sx19Xf,3,3,"[""garage"", ""indie"", ""rock""]",3,0,41,0.0,2,41,[],0,41.0
+1UwUhKmFxGKs59xiWO60Sx,3,3,"[""garage"", ""indie"", ""rock""]",3,0,42,0.0,2,42,[],0,42.0
+6PcEmYKixWJV1kwoOGEv04,3,3,"[""garage"", ""german"", ""swedish""]",3,42,43,42.0,2,1,[],0,1.0
+20j7B6mL9gnNvG3ic6Vwh5,3,3,"[""garage"", ""hard-rock"", ""swedish""]",3,68,69,69.0,2,1,[],0,0.0
+50jXnyrzW4mcBBqFTMEoAC,2,2,"[""garage"", ""punk-rock""]",2,56,57,56.5,2,1,[],0,0.5
+2aX1zws7bVjTLbS1cYZK2W,4,4,"[""german"", ""hard-rock"", ""metal"", ""rock""]",4,0,1,0.0,2,1,[],0,1.0
+5YaskwnGDZFDRipaqzbwQx,3,3,"[""german"", ""techno"", ""trance""]",3,78,79,78.0,2,1,[],0,1.0
+5zWZ9iNevP0397xB3jWV2z,2,2,"[""german"", ""synth-pop""]",2,70,71,70.5,2,1,[],0,0.5
+1eV81a6H4xDdpi8r2C4tQT,3,3,"[""german"", ""minimal-techno"", ""techno""]",3,63,64,64.0,2,1,[],0,0.0
+3CvfYeaJX8JAT1tF5IzVlG,3,3,"[""german"", ""techno"", ""trance""]",3,38,39,39.0,2,1,[],0,0.0
+5LXaBBZePqShzKxM6b9RFU,4,4,"[""german"", ""progressive-house"", ""techno"", ""trance""]",4,41,42,41.5,2,1,[],0,0.5
+2syQ0f4SAQdzvlAewPl1DJ,2,2,"[""german"", ""techno""]",2,57,58,57.5,2,1,[],0,0.5
+6vmdV1NsKisfobiqyg2kG3,3,3,"[""german"", ""punk"", ""punk-rock""]",3,39,40,40.0,2,1,[],0,0.0
+5cY5o3LJZpC7K7p4pyAn8n,3,3,"[""german"", ""punk"", ""punk-rock""]",3,38,39,39.0,2,1,[],0,0.0
+74PyndGWYtfs86n60lAsYW,2,2,"[""german"", ""techno""]",2,62,63,62.5,2,1,[],0,0.5
+4gTeTt1IuGrOLaJeRP5wUw,2,2,"[""goth"", ""swedish""]",2,45,46,45.5,2,1,[],0,0.5
+67f867INYgEaahq90kqeKE,2,2,"[""goth"", ""swedish""]",2,40,41,40.5,2,1,[],0,0.5
+3nJtKV23cLqdMzurBX49Tq,2,2,"[""goth"", ""swedish""]",2,42,43,42.5,2,1,[],0,0.5
+4Tdc5l6RUT5HqGJiKC70bj,2,2,"[""goth"", ""swedish""]",2,41,42,41.5,2,1,[],0,0.5
+5FMsd0fQLiSM2IQKRmMAVM,2,2,"[""goth"", ""swedish""]",2,38,39,38.5,2,1,[],0,0.5
+18lJtRd5zSqezlKjD5treG,2,2,"[""goth"", ""swedish""]",2,37,38,37.5,2,1,[],0,0.5
+0IQBwszytBLb7GsRm0GwKz,2,2,"[""goth"", ""swedish""]",2,34,35,34.5,2,1,[],0,0.5
+4HMfyF1N7spvVdWuAzyk3C,2,2,"[""goth"", ""swedish""]",2,38,39,38.5,2,1,[],0,0.5
+0DqLuhTD1xI8mb2gY5YoLM,2,2,"[""goth"", ""swedish""]",2,35,36,35.5,2,1,[],0,0.5
+7fLbCGlipM2zblhppk4mFJ,2,2,"[""goth"", ""swedish""]",2,36,37,36.5,2,1,[],0,0.5
+0nlxkDzyZPBFxaFQqoNdYy,2,2,"[""goth"", ""swedish""]",2,38,39,38.5,2,1,[],0,0.5
+20A3kygqTufoVmkgL6Xawr,2,2,"[""goth"", ""synth-pop""]",2,48,49,48.5,2,1,[],0,0.5
+0L0DM33NAe6PjQ1BB4cEjJ,3,3,"[""happy"", ""hardcore"", ""techno""]",3,61,62,62.0,2,1,[],0,0.0
+5BeV0OiC4VQ3TG7ZlNHHsz,3,3,"[""happy"", ""hardcore"", ""techno""]",3,55,56,56.0,2,1,[],0,0.0
+46musX0gdikT9TWkzvs6fC,3,3,"[""happy"", ""hardcore"", ""techno""]",3,30,31,31.0,2,1,[],0,0.0
+4m6JdrQrSbSnjYc89qKvEj,3,3,"[""happy"", ""hardcore"", ""techno""]",3,30,31,31.0,2,1,[],0,0.0
+73aU3qXvFvncBJUisAMi5C,2,2,"[""happy"", ""techno""]",2,26,27,26.5,2,1,[],0,0.5
+0CMFmZVu2ChSHuGu1tzhjG,2,2,"[""happy"", ""techno""]",2,25,26,25.5,2,1,[],0,0.5
+3Rn21K5Te3TUM0AcFtisuX,2,2,"[""happy"", ""techno""]",2,24,25,24.5,2,1,[],0,0.5
+3P5xhGZ3c9tOmyvpiTAvVn,2,2,"[""happy"", ""techno""]",2,24,25,24.5,2,1,[],0,0.5
+2zYzyRzz6pRmhPzyfMEC8s,2,2,"[""hard-rock"", ""rock""]",2,84,85,84.5,2,1,[],0,0.5
+7x7i3XBKSM4AoLoPymDuh9,3,3,"[""hard-rock"", ""metal"", ""rock""]",3,0,1,0.0,2,1,[],0,1.0
+2xOcbu4PTkikUk7Z8widN1,3,3,"[""hard-rock"", ""metal"", ""rock""]",3,3,4,3.0,2,1,[],0,1.0
+4kLIAQN2z1Uh0NvpNgz6jF,3,3,"[""hard-rock"", ""metal"", ""rock""]",3,1,2,1.0,2,1,[],0,1.0
+1FaJAcRI9aJ8dGDdkVUR6s,2,2,"[""hard-rock"", ""rock""]",2,1,2,1.5,2,1,[],0,0.5
+5sqkarfxe7UejHTlCtHCLS,7,7,"[""hard-rock"", ""hardcore"", ""j-pop"", ""j-rock"", ""metal"", ""metalcore"", ""trance""]",7,61,62,62.0,2,1,[],0,0.0
+2fB4EWHpiADO2Bv2Dzenmi,3,3,"[""hard-rock"", ""punk"", ""punk-rock""]",3,39,40,40.0,2,1,[],0,0.0
+75KyB8zFgkkfwOWr3wz2y0,3,3,"[""hard-rock"", ""hardcore"", ""ska""]",3,38,39,39.0,2,1,[],0,0.0
+1Qxxs9HPT8cXHZbRH7Ete2,2,2,"[""hard-rock"", ""punk-rock""]",2,36,37,36.5,2,1,[],0,0.5
+5H0rkrwdQytofgRjhZe9XF,3,3,"[""hard-rock"", ""hardcore"", ""ska""]",3,34,35,35.0,2,1,[],0,0.0
+0VnkKcDfLPPyWTa3xIFWCV,3,3,"[""hard-rock"", ""hardcore"", ""ska""]",3,34,35,35.0,2,1,[],0,0.0
+3yz3yceLHbR6jlyvfxrEBn,2,2,"[""hard-rock"", ""punk-rock""]",2,34,35,34.5,2,1,[],0,0.5
+2K6a1zQRxVh7lvvNf3gSCR,2,2,"[""hardcore"", ""ska""]",2,33,34,33.5,2,1,[],0,0.5
+7szxifMiAXPrK3wOdDpMdd,2,2,"[""hardcore"", ""ska""]",2,33,34,33.5,2,1,[],0,0.5
+6S2YyQWrTkJG88HJRtgbWu,2,2,"[""hardcore"", ""ska""]",2,31,32,31.5,2,1,[],0,0.5
+4qJUOnvMJvr3sXpIrY8zJH,2,2,"[""heavy-metal"", ""spanish""]",2,27,28,27.5,2,1,[],0,0.5
+0yy3WShigK5eqAmhS4aRwz,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,1,2,1.0,2,1,[],0,1.0
+0vp47IigZ7JVQ89jDetO7H,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,4,5,4.0,2,1,[],0,1.0
+20vLGVDLfbzdh3vbSpSuj8,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,3,4,3.0,2,1,[],0,1.0
+7K96XKPXv0xPKetFRB7Zh6,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,7,8,7.0,2,1,[],0,1.0
+5wPayKgEqHa0ewZhUS8BSY,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,2,3,2.0,2,1,[],0,1.0
+7cS2YS8Q5wJ7ZzqbKLsuFR,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,2,3,2.0,2,1,[],0,1.0
+0c9wSzwT33NaUlJNy1z0jh,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,0,2,0.0,2,2,[],0,2.0
+3GFQEHBTtwNF30ROf0SwoD,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,1,2,1.0,2,1,[],0,1.0
+0cZPaB4GUe0mfx1KXr6FBR,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,3,4,3.0,2,1,[],0,1.0
+3nA4OeDfh5607uniaoEmTv,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,2,3,2.0,2,1,[],0,1.0
+70EAPHQagNqQz3Do73iMh6,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,0,1,0.0,2,1,[],0,1.0
+4Am7HvT1CHDBH5bIdat8Ll,5,5,"[""hip-hop"", ""latin"", ""latino"", ""reggae"", ""reggaeton""]",5,1,2,1.0,2,1,[],0,1.0
+72zHuDxFQTjbL51qJQSA7j,5,5,"[""indian"", ""pop"", ""pop-film"", ""singer-songwriter"", ""songwriter""]",5,76,77,77.0,2,1,[],0,0.0
+7rtaBPvxCSw2bKY8miNyLa,3,3,"[""indian"", ""singer-songwriter"", ""songwriter""]",3,55,56,55.0,2,1,[],0,1.0
+4BL4aEbddW0OGv6fFYYFUt,4,4,"[""indian"", ""indie"", ""singer-songwriter"", ""songwriter""]",4,53,54,53.5,2,1,[],0,0.5
+4mYrbFGkk5u3bnDhTj0jAO,3,3,"[""indian"", ""singer-songwriter"", ""songwriter""]",3,48,49,48.0,2,1,[],0,1.0
+4tQeEHoii36QEGOEacAybz,3,3,"[""indian"", ""singer-songwriter"", ""songwriter""]",3,49,50,49.0,2,1,[],0,1.0
+6i9997Q9R4M7RuqQEHq3ed,3,3,"[""indian"", ""singer-songwriter"", ""songwriter""]",3,46,47,46.0,2,1,[],0,1.0
+5GlPyea0WIbj3PI66a9Dft,3,3,"[""indian"", ""singer-songwriter"", ""songwriter""]",3,45,46,45.0,2,1,[],0,1.0
+0Pa0xSCRVO8ZIxs29XgBvv,4,4,"[""indian"", ""indie"", ""singer-songwriter"", ""songwriter""]",4,44,45,44.5,2,1,[],0,0.5
+00YwP3wJWiG8IxAA7OS9lo,6,6,"[""indian"", ""indie"", ""indie-pop"", ""k-pop"", ""singer-songwriter"", ""songwriter""]",6,46,47,47.0,2,1,[],0,0.0
+6mPet122yXpp6X8iTiNVo9,6,6,"[""indian"", ""indie"", ""indie-pop"", ""k-pop"", ""singer-songwriter"", ""songwriter""]",6,4,16,4.0,2,12,[],0,12.0
+13bxvI8AveCg4FOJTCULnb,4,4,"[""indian"", ""indie"", ""singer-songwriter"", ""songwriter""]",4,40,41,40.5,2,1,[],0,0.5
+4346ts6RdbK3diJWlFX37J,3,3,"[""indian"", ""singer-songwriter"", ""songwriter""]",3,41,42,41.0,2,1,[],0,1.0
+7uo2L5FAja3pWIBa3HJVeC,4,4,"[""indie"", ""indie-pop"", ""singer-songwriter"", ""songwriter""]",4,69,70,69.5,2,1,[],0,0.5
+7w87IxuO7BDcJ3YUqCyMTT,2,2,"[""indie"", ""rock""]",2,83,84,83.5,2,1,[],0,0.5
+3kxkjirben9RVm9NqYa6rm,2,2,"[""indie"", ""rock""]",2,75,76,75.5,2,1,[],0,0.5
+7Fbjt9MyQqzi1j0TtrlnoE,2,2,"[""indie"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+4yeNEikDoJHQQhARd7atfR,2,2,"[""indie"", ""soul""]",2,3,4,3.5,2,1,[],0,0.5
+6YNCQ5rhSbhanzCaASZWID,2,2,"[""industrial"", ""techno""]",2,33,34,33.5,2,1,[],0,0.5
+5X59Gh7j0so6cDqrFdvDDS,2,2,"[""industrial"", ""techno""]",2,38,39,38.5,2,1,[],0,0.5
+6nn2kLJSubw6VUIkLIc5JF,2,2,"[""industrial"", ""synth-pop""]",2,21,22,21.5,2,1,[],0,0.5
+76c42qNYc0VB5KUXO6lWHH,2,2,"[""j-idol"", ""techno""]",2,32,33,32.5,2,1,[],0,0.5
+2EPVEQ8ITYjNXmT8FEUoxH,2,2,"[""j-idol"", ""techno""]",2,32,33,32.5,2,1,[],0,0.5
+22zahJ5S2aSRrQ10CXTB8I,2,2,"[""j-idol"", ""techno""]",2,28,29,28.5,2,1,[],0,0.5
+54CEXt5kP0lFQTaRXYHXYw,2,2,"[""j-idol"", ""techno""]",2,26,27,26.5,2,1,[],0,0.5
+0XoDkl2Q5pKCfjSe7Woxr6,2,2,"[""j-idol"", ""techno""]",2,25,26,25.5,2,1,[],0,0.5
+515BPozxiMm95vvsA6V6En,2,2,"[""j-idol"", ""techno""]",2,25,26,25.5,2,1,[],0,0.5
+3lUOzabhWYyRImRszpJGOU,2,2,"[""j-pop"", ""soul""]",2,74,75,74.5,2,1,[],0,0.5
+1smXC6H0O8po3P4bS7MrgC,4,4,"[""j-pop"", ""j-rock"", ""jazz"", ""turkish""]",4,40,41,41.0,2,1,[],0,0.0
+29A4wZq3zu5SiliT3BbwIR,3,3,"[""j-pop"", ""j-rock"", ""rockabilly""]",3,38,39,39.0,2,1,[],0,0.0
+2FU1YUBRONE4XXTiffe2Bv,3,3,"[""j-pop"", ""jazz"", ""turkish""]",3,40,41,41.0,2,1,[],0,0.0
+7hSnUKB7xmb8p7y3GFRz0s,3,3,"[""j-pop"", ""jazz"", ""swedish""]",3,39,40,40.0,2,1,[],0,0.0
+2rMpjMvi9zOuyEIqw1BF0N,3,3,"[""j-pop"", ""j-rock"", ""turkish""]",3,37,38,38.0,2,1,[],0,0.0
+3RrBcQlMGFdFtz1JMIHaK1,4,4,"[""j-pop"", ""j-rock"", ""jazz"", ""turkish""]",4,37,38,38.0,2,1,[],0,0.0
+6VR67hW1E1qUevxEAhBm9f,3,3,"[""j-pop"", ""j-rock"", ""rockabilly""]",3,35,36,36.0,2,1,[],0,0.0
+7cVX0XbrMraZTkYdrUXpaP,3,3,"[""j-pop"", ""j-rock"", ""samba""]",3,37,38,38.0,2,1,[],0,0.0
+577q8gGSTryRxX1YHWSjWk,3,3,"[""j-rock"", ""jazz"", ""turkish""]",3,40,41,41.0,2,1,[],0,0.0
+2rZ113Rwo5iwIA2orRpDKI,2,2,"[""j-rock"", ""rockabilly""]",2,40,41,40.5,2,1,[],0,0.5
+3soQ0e19kGGF6CDyCoZvrt,3,3,"[""j-rock"", ""jazz"", ""turkish""]",3,41,42,42.0,2,1,[],0,0.0
+6O3FZGHypfvAJNsY12MPAJ,3,3,"[""j-rock"", ""jazz"", ""turkish""]",3,40,41,41.0,2,1,[],0,0.0
+18rI489dTiiDiBSWMW0TSu,2,2,"[""j-rock"", ""rockabilly""]",2,37,38,37.5,2,1,[],0,0.5
+1m37Hf4mCV6XoGA1AuSfR9,3,3,"[""j-rock"", ""jazz"", ""turkish""]",3,38,39,39.0,2,1,[],0,0.0
+2IBMvJqiBJBcbEddTlZZxI,2,2,"[""j-rock"", ""rockabilly""]",2,34,35,34.5,2,1,[],0,0.5
+7lekmoc4i0EunGhvfqYzPl,2,2,"[""j-rock"", ""rockabilly""]",2,34,35,34.5,2,1,[],0,0.5
+7x2rua8HcHsaJV5ib1BQbu,2,2,"[""j-rock"", ""rockabilly""]",2,33,34,33.5,2,1,[],0,0.5
+75rmkfnhh0wDPqKITSNTju,2,2,"[""j-rock"", ""rockabilly""]",2,32,33,32.5,2,1,[],0,0.5
+6PT6nSEatLEKVLOo4asoAr,2,2,"[""j-rock"", ""rockabilly""]",2,32,33,32.5,2,1,[],0,0.5
+3Mk4nxxKHem8rWxdWLC0R6,2,2,"[""j-rock"", ""rockabilly""]",2,31,32,31.5,2,1,[],0,0.5
+64NHAxoXRHW7WprPLFM5S2,2,2,"[""j-rock"", ""rockabilly""]",2,31,32,31.5,2,1,[],0,0.5
+0aktpJHZ4Qd3GWUKKvJq8C,2,2,"[""j-rock"", ""rockabilly""]",2,31,32,31.5,2,1,[],0,0.5
+6vAcoAjqhoJQaMJJZfBxEc,3,3,"[""jazz"", ""singer-songwriter"", ""songwriter""]",3,45,46,45.0,2,1,[],0,1.0
+2BxRxqP6gqHHO0dQzse8pe,2,2,"[""jazz"", ""turkish""]",2,39,40,39.5,2,1,[],0,0.5
+2sLvYnCS3S8klPvZGXGic2,2,2,"[""jazz"", ""samba""]",2,38,39,38.5,2,1,[],0,0.5
+07lspWYhdJtdn6f6e3DiCD,2,2,"[""jazz"", ""salsa""]",2,37,38,37.5,2,1,[],0,0.5
+2pfvK4mEji3KYxoJqEwzDV,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,1,2,1.0,2,1,[],0,1.0
+40o76YIOwDazc0h2QrZhWl,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,3,4,3.0,2,1,[],0,1.0
+3i9uGfgo9kXoRUNAl3M8Mr,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,6,7,6.0,2,1,[],0,1.0
+0RV56NxeOVdpNxSUarBW22,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,3,4,3.0,2,1,[],0,1.0
+6ciK3ADaV9FuTvMvDwYD6R,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,1,3,1.0,2,2,[],0,2.0
+1Kg1pUYOa3mYdQG9zi7SjV,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,7,8,7.0,2,1,[],0,1.0
+0vqgm9EiiiF9HubKsWtEyZ,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,0,1,0.0,2,1,[],0,1.0
+3BK7JmX1P4GSGx5mdG3aiL,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,1,2,1.0,2,1,[],0,1.0
+4uJnQswt7f4r0tuI37wNFk,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,4,5,4.0,2,1,[],0,1.0
+5ElpusNZMl7iKKmVuxC6EH,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,0,1,0.0,2,1,[],0,1.0
+6Ok7LQxIDEqKQEFUBNRzpx,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,2,3,2.5,2,1,[],0,0.5
+3LaQzvfIetBWdtIV0JoBwF,5,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,4,5,4.5,2,1,[],0,0.5
+6aGP0AAF8iLyoGdLRpuVoZ,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,2,3,2.5,2,1,[],0,0.5
+38DE0yn1UzRWgaLsh0GJGZ,5,5,"[""latin"", ""latino"", ""pop"", ""reggae"", ""reggaeton""]",5,3,4,3.0,2,1,[],0,1.0
+1oF3cqTJws6BixRDsyz0HU,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,3,4,3.5,2,1,[],0,0.5
+6H73ViNxjmJcXWHGX20Vkx,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.5,2,1,[],0,0.5
+3HdJWzA5iMRweXuY98Dyzb,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.5,2,1,[],0,0.5
+1sZyestTGfOxWKRxdVdKuA,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,2,3,2.5,2,1,[],0,0.5
+2xABkRsg3JYfM7JCNg0Mao,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.5,2,1,[],0,0.5
+5enzKZ2YzoY4LFaamlRhFV,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.5,2,1,[],0,0.5
+1LBbGzkIDSEc0RQb9LXgce,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,2,3,2.5,2,1,[],0,0.5
+6g9qibs8qNFnG1dFPYp48V,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,4,5,4.5,2,1,[],0,0.5
+6sAKc56i3qGXq1Y8fniOnf,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,2,3,2.5,2,1,[],0,0.5
+4nChyydft5jq1FpXKuXCCM,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.0,2,1,[],0,1.0
+2krNOqdPZApb8To7F22h8t,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.0,2,1,[],0,1.0
+2Zlqc4m6Gv0tSsgDS87LJQ,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.5,2,1,[],0,0.5
+5t22v52YE4S82SVLYUhYSw,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.5,2,1,[],0,0.5
+4m9fRIegA8wUHdBEFUzkaG,2,2,"[""latin"", ""spanish""]",2,3,4,3.5,2,1,[],0,0.5
+3LU6ONGkC6ckczjHityatd,2,2,"[""latin"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+3k3NWokhRRkEPhCzPmV8TW,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,94,95,94.5,2,1,[],0,0.5
+5VelPjakTvwPBHjPhl2Igv,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.5,2,1,[],0,0.5
+3i2njMyJOynYaC9o7QS0n7,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,3,4,3.5,2,1,[],0,0.5
+5Eax0qFko2dh7Rl2lYs3bx,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,95,96,95.5,2,1,[],0,0.5
+4sCSUQnWQ6HJsOMjfPicdn,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,69,70,69.5,2,1,[],0,0.5
+7fpym9dJ7HFNgOxk2x8iMb,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.5,2,1,[],0,0.5
+3R2gIWAXOAyNXTmfxMITwK,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,0,1,0.5,2,1,[],0,0.5
+5b1je14Oz92lpIlIMLieWw,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,70,71,70.5,2,1,[],0,0.5
+6geDG6zrcBSqg5AzTFtTlp,3,3,"[""latin"", ""reggae"", ""reggaeton""]",3,0,1,1.0,2,1,[],0,0.0
+7JUUnmGyv4qi32A5c60IbR,3,3,"[""latin"", ""reggae"", ""reggaeton""]",3,0,1,1.0,2,1,[],0,0.0
+4au7FRcgZzChASRYu279xH,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,63,64,63.5,2,1,[],0,0.5
+1TRnIxwWeJoE6MVimzjw2w,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,63,64,63.5,2,1,[],0,0.5
+2sZzEKY3DxpY8V87SuYoU2,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,64,65,64.5,2,1,[],0,0.5
+4u4EnZpoThBaxVRLMHyVOA,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,58,59,58.5,2,1,[],0,0.5
+4ZlHgEGwZb3PCq0OWFbhcO,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,63,64,63.5,2,1,[],0,0.5
+1zsPaEkglFvxjAhrM8yhpr,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,76,77,76.5,2,1,[],0,0.5
+5Os2tLxqWCi3FexbWdWDAm,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,59,60,59.5,2,1,[],0,0.5
+4ISfM2xZuOc9YEtiCqty7Y,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,59,60,59.5,2,1,[],0,0.5
+2YVn2wkwLYSVkSV6qgKIPg,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,54,55,54.5,2,1,[],0,0.5
+1DoK3CdipMjplLk5LXUdcp,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,63,64,63.5,2,1,[],0,0.5
+4DHDIdeayp8xvlyg22wREO,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,68,69,68.5,2,1,[],0,0.5
+6i1g5ZRmJZAkDwBaUZ3f2i,4,4,"[""latin"", ""latino"", ""reggae"", ""reggaeton""]",4,90,91,90.5,2,1,[],0,0.5
+7LyHLyC6mKKnSALH9QjWQZ,3,3,"[""latino"", ""reggae"", ""reggaeton""]",3,51,52,51.0,2,1,[],0,1.0
+1qkVJlyVaLZbwolRZmc17i,3,3,"[""latino"", ""reggae"", ""reggaeton""]",3,48,49,48.0,2,1,[],0,1.0
+5fWG4JDot8nHCte7gUdMUS,3,3,"[""latino"", ""reggae"", ""reggaeton""]",3,66,67,66.0,2,1,[],0,1.0
+1RouRzlg8OKFeqc6LvdxmB,3,3,"[""latino"", ""reggae"", ""reggaeton""]",3,73,74,73.0,2,1,[],0,1.0
+2GPCE96x9Go6acdDt8ex6p,3,3,"[""latino"", ""reggae"", ""reggaeton""]",3,64,65,64.0,2,1,[],0,1.0
+0iuRYmJA5Oy6GF3wpibS27,3,3,"[""latino"", ""reggae"", ""reggaeton""]",3,44,45,44.0,2,1,[],0,1.0
+3gE4eQH3K83Sght0ZLvuBK,2,2,"[""latino"", ""reggaeton""]",2,64,65,64.5,2,1,[],0,0.5
+6D2TCm4nf5nxAcdGJ7w3QP,3,3,"[""latino"", ""reggae"", ""reggaeton""]",3,76,77,76.0,2,1,[],0,1.0
+02jLfqc9gMo8PkHEGHY3OT,3,3,"[""latino"", ""reggae"", ""reggaeton""]",3,82,83,82.0,2,1,[],0,1.0
+3NIsZEsnGH8fquyngVuomV,2,2,"[""latino"", ""reggaeton""]",2,42,43,42.5,2,1,[],0,0.5
+62o8KoI44JfN7aYxgTnPvh,2,2,"[""latino"", ""reggaeton""]",2,65,66,65.5,2,1,[],0,0.5
+6zEgnpM0qYmHLDnh8WPejL,2,2,"[""latino"", ""reggaeton""]",2,68,69,68.5,2,1,[],0,0.5
+5DxXgozhkPLgrbKFY91w0c,2,2,"[""latino"", ""reggaeton""]",2,78,79,78.5,2,1,[],0,0.5
+6JUMswocQ7Hp46kj9kyljT,2,2,"[""latino"", ""reggaeton""]",2,78,79,78.5,2,1,[],0,0.5
+4d4ZXH4dr5bYfgErHiZCX2,2,2,"[""latino"", ""reggaeton""]",2,86,87,86.5,2,1,[],0,0.5
+28GCbKgjlVD9eDmasGbe0T,2,2,"[""latino"", ""reggaeton""]",2,84,85,84.5,2,1,[],0,0.5
+2xcHJ5YpRL7wgSfsBnIktB,2,2,"[""latino"", ""reggaeton""]",2,64,65,64.5,2,1,[],0,0.5
+7hynhxDoDpgMIV12JuVtNa,2,2,"[""latino"", ""reggaeton""]",2,82,83,82.5,2,1,[],0,0.5
+7lRp0mTu0oAaN3avFuouoQ,2,2,"[""latino"", ""reggaeton""]",2,44,45,44.5,2,1,[],0,0.5
+4lF1ldtLPO4KkXss6TBM5H,2,2,"[""latino"", ""reggaeton""]",2,39,40,39.5,2,1,[],0,0.5
+0FDMH2ahuIVzCybwHJK9zh,2,2,"[""latino"", ""reggaeton""]",2,70,71,70.5,2,1,[],0,0.5
+4blBHK4RMT3qrBeaRpaeJi,2,2,"[""latino"", ""ska""]",2,38,39,38.5,2,1,[],0,0.5
+5EKZ2wb7RIk5Q8X1ZegaQX,3,3,"[""mandopop"", ""singer-songwriter"", ""songwriter""]",3,6,8,8.0,2,2,[],0,0.0
+54U8KseFLbjpPYfq2DEB7B,2,2,"[""metal"", ""rock""]",2,2,3,2.5,2,1,[],0,0.5
+4Y7eqYTpV7fQxpYj1isN2F,3,3,"[""metal"", ""metalcore"", ""trance""]",3,69,70,70.0,2,1,[],0,0.0
+28ewfZ6bTCVCNOFEZ1Q7q8,2,2,"[""metal"", ""turkish""]",2,39,40,39.5,2,1,[],0,0.5
+1BrgjqSg9du0lj3TUMLluL,2,2,"[""metal"", ""swedish""]",2,68,69,68.5,2,1,[],0,0.5
+76jqYRytkvCM1ByVYBs3NS,2,2,"[""metal"", ""turkish""]",2,39,40,39.5,2,1,[],0,0.5
+3H2cHIeqH79jmFsdiPKRv7,3,3,"[""metal"", ""punk"", ""punk-rock""]",3,39,40,40.0,2,1,[],0,0.0
+56AWIKxIgIzRAOWh4u3kNE,2,2,"[""minimal-techno"", ""techno""]",2,20,21,20.5,2,1,[],0,0.5
+5UsfWcP6SThHlZ4oAgx7ge,2,2,"[""minimal-techno"", ""techno""]",2,51,52,51.5,2,1,[],0,0.5
+1wpbmqF1IFW1W1Zut5aquK,2,2,"[""minimal-techno"", ""techno""]",2,55,56,55.5,2,1,[],0,0.5
+0aDYFH1mUp20pLMb7Jkusb,2,2,"[""minimal-techno"", ""techno""]",2,41,42,41.5,2,1,[],0,0.5
+2ivnsOi3RcEbskFvTS9zt3,2,2,"[""minimal-techno"", ""techno""]",2,0,18,9.0,2,18,[],0,9.0
+3I72hk46KJ6MFDtNBjJ99P,2,2,"[""minimal-techno"", ""techno""]",2,51,52,51.5,2,1,[],0,0.5
+65YXrDsZER1jlPAqFS9GDH,2,2,"[""minimal-techno"", ""techno""]",2,0,10,5.0,2,10,[],0,5.0
+5453frA2hsBPjGRVDHm1PJ,2,2,"[""minimal-techno"", ""techno""]",2,49,50,49.5,2,1,[],0,0.5
+3dwDBE5AMcHLxemIAEp2xb,2,2,"[""minimal-techno"", ""techno""]",2,59,60,59.5,2,1,[],0,0.5
+3lYJLJUJiBQQLSGRmrM1jS,2,2,"[""minimal-techno"", ""techno""]",2,51,52,51.5,2,1,[],0,0.5
+3npxGyRpSmxS7mlN5ndjNS,2,2,"[""minimal-techno"", ""techno""]",2,48,49,48.5,2,1,[],0,0.5
+6G40wvmUlCrx5KqGFN5H4X,2,2,"[""minimal-techno"", ""techno""]",2,50,51,50.5,2,1,[],0,0.5
+6tOyGXVcdz0JXWh3o8Sv3c,2,2,"[""minimal-techno"", ""techno""]",2,48,49,48.5,2,1,[],0,0.5
+3NfeXbPEafvsiPtwq5huQX,2,2,"[""minimal-techno"", ""techno""]",2,48,49,48.5,2,1,[],0,0.5
+6qr0PaTKHYx91UPfMTQxdM,2,2,"[""minimal-techno"", ""techno""]",2,46,47,46.5,2,1,[],0,0.5
+0TaDQnUX1RjbCv3liKFqWP,2,2,"[""minimal-techno"", ""techno""]",2,46,47,46.5,2,1,[],0,0.5
+3NgAAoUZPkxL5mpvUI7Rl5,2,2,"[""minimal-techno"", ""techno""]",2,58,59,58.5,2,1,[],0,0.5
+0ncgj6yTGzZ4GwX2dbXAKE,3,3,"[""minimal-techno"", ""party"", ""techno""]",3,54,55,55.0,2,1,[],0,0.0
+1WheyFsHUcBWQ33WNHcZdI,2,2,"[""minimal-techno"", ""techno""]",2,0,1,0.5,2,1,[],0,0.5
+1XdOmwUJMLTM4PLfDdGlCF,2,2,"[""minimal-techno"", ""techno""]",2,0,1,0.5,2,1,[],0,0.5
+6BA2JM59JObFjHNvLK2KOg,2,2,"[""minimal-techno"", ""techno""]",2,49,50,49.5,2,1,[],0,0.5
+5mLllF9AIePVdhExTiNyyr,2,2,"[""minimal-techno"", ""techno""]",2,46,47,46.5,2,1,[],0,0.5
+3cwXKrP3RuQ6vlwvwUMJcZ,2,2,"[""minimal-techno"", ""techno""]",2,48,49,48.5,2,1,[],0,0.5
+2arir9Fflyqh00LWlOxaym,2,2,"[""minimal-techno"", ""techno""]",2,44,45,44.5,2,1,[],0,0.5
+1VIzgYvo4Got947F1EMGIo,2,2,"[""minimal-techno"", ""techno""]",2,25,26,25.5,2,1,[],0,0.5
+16usJl9JyY13eBN0qj95uC,2,2,"[""minimal-techno"", ""techno""]",2,13,14,13.5,2,1,[],0,0.5
+1fhcMMxjn3Gvin19Akf3Ig,2,2,"[""minimal-techno"", ""techno""]",2,45,46,45.5,2,1,[],0,0.5
+5hZyYFoURxBGBTFDiQMQqV,2,2,"[""minimal-techno"", ""techno""]",2,43,44,43.5,2,1,[],0,0.5
+0iZq53rxJMgd4SeGFH86Zo,2,2,"[""minimal-techno"", ""techno""]",2,24,25,24.5,2,1,[],0,0.5
+7bJIb0bPGNHq1RqO2ofA8v,2,2,"[""minimal-techno"", ""techno""]",2,46,47,46.5,2,1,[],0,0.5
+5e0cpLRbShZxK2w3LOR5Zb,2,2,"[""minimal-techno"", ""techno""]",2,32,33,32.5,2,1,[],0,0.5
+5tE6O5aR5b7krAkQnPrkYC,2,2,"[""minimal-techno"", ""techno""]",2,44,45,44.5,2,1,[],0,0.5
+0vgIkHFK8wpogVc1XCi18F,2,2,"[""minimal-techno"", ""techno""]",2,39,41,40.0,2,2,[],0,1.0
+7cq2nIdClANqlwH4okuYm3,2,2,"[""mpb"", ""r-n-b""]",2,47,48,47.5,2,1,[],0,0.5
+6Q4no26EaF80ttkI9HEWME,3,3,"[""mpb"", ""pagode"", ""samba""]",3,47,48,48.0,2,1,[],0,0.0
+6zTO2fJwrZAYZGGi1DjD3g,2,2,"[""mpb"", ""samba""]",2,45,46,45.5,2,1,[],0,0.5
+0EQc8pPwPTXxcXPzDjjmEq,3,3,"[""mpb"", ""r-n-b"", ""samba""]",3,44,45,44.0,2,1,[],0,1.0
+1WhWizm70M63k5UVIHX1Fe,2,2,"[""mpb"", ""samba""]",2,43,44,43.5,2,1,[],0,0.5
+3NeIv5vFoKByUnjMjMQVEc,2,2,"[""mpb"", ""samba""]",2,43,44,43.5,2,1,[],0,0.5
+4Apo9nEhy16YNp33UQDKdB,3,3,"[""mpb"", ""pagode"", ""samba""]",3,42,43,43.0,2,1,[],0,0.0
+4ql2jVYt0hD3PFvcsKYVLP,2,2,"[""mpb"", ""samba""]",2,42,43,42.5,2,1,[],0,0.5
+4UzgLMoTKm0woWLof31Jf3,3,3,"[""mpb"", ""pagode"", ""samba""]",3,43,44,44.0,2,1,[],0,0.0
+1cKCn6Wf63j9qdUKSVi356,3,3,"[""mpb"", ""pagode"", ""samba""]",3,42,43,43.0,2,1,[],0,0.0
+7rwe8s6fObqAZMRE2B1Tup,2,2,"[""mpb"", ""r-n-b""]",2,42,43,42.5,2,1,[],0,0.5
+21i5B2i5ZIcofVwjuo9LKG,3,3,"[""mpb"", ""r-n-b"", ""samba""]",3,41,42,41.0,2,1,[],0,1.0
+0Lt0cohXv3e1BoykniHBOu,2,2,"[""mpb"", ""r-n-b""]",2,42,43,42.5,2,1,[],0,0.5
+73IwHIEhnAPKV5kDDBk4Dd,2,2,"[""mpb"", ""r-n-b""]",2,43,44,43.5,2,1,[],0,0.5
+59tBqJGkzbe0pz99EU6MIw,2,2,"[""mpb"", ""r-n-b""]",2,42,43,42.5,2,1,[],0,0.5
+4UPhXYKlkMcmGqoEamcABC,2,2,"[""mpb"", ""samba""]",2,41,42,41.5,2,1,[],0,0.5
+7iPlYsBxklzdQe4iVQx7DK,2,2,"[""mpb"", ""r-n-b""]",2,42,43,42.5,2,1,[],0,0.5
+324Vv8APc2bHig0lm6wiYC,2,2,"[""mpb"", ""r-n-b""]",2,42,43,42.5,2,1,[],0,0.5
+56QI0cHMqOQRBw4jbNFGZD,2,2,"[""mpb"", ""samba""]",2,41,42,41.5,2,1,[],0,0.5
+0rwES3EzICSovqZsrZpImi,3,3,"[""mpb"", ""r-n-b"", ""samba""]",3,40,41,40.0,2,1,[],0,1.0
+7Kiw2eWnLpXmnKXKxpCcq0,2,2,"[""mpb"", ""samba""]",2,41,42,41.5,2,1,[],0,0.5
+2R3LQndjqKf8CIuPTSiI8p,2,2,"[""mpb"", ""samba""]",2,40,41,40.5,2,1,[],0,0.5
+2B7GMkCUExLpG5lM2ICbXF,2,2,"[""mpb"", ""samba""]",2,39,40,39.5,2,1,[],0,0.5
+5WNKAbOTfyJA1OVYLa2WI7,2,2,"[""mpb"", ""r-n-b""]",2,41,42,41.5,2,1,[],0,0.5
+3XgLyBDVXEl9IcEQl8AL8S,2,2,"[""mpb"", ""samba""]",2,40,41,40.5,2,1,[],0,0.5
+1f37bCa9wTI9vEKp21eIrl,2,2,"[""mpb"", ""samba""]",2,40,41,40.5,2,1,[],0,0.5
+43qZK77WZUsK6c2HOvLXzj,2,2,"[""mpb"", ""samba""]",2,39,40,39.5,2,1,[],0,0.5
+535yXKG6YMymstdOwlGYS6,2,2,"[""mpb"", ""samba""]",2,39,40,39.5,2,1,[],0,0.5
+1xN9kdNDIRmBLqujjYSbrZ,2,2,"[""mpb"", ""r-n-b""]",2,41,42,41.5,2,1,[],0,0.5
+1U0r0NTk1REudDGzNICs17,2,2,"[""mpb"", ""r-n-b""]",2,41,42,41.5,2,1,[],0,0.5
+1voq70uyXy4i3S1oJP48Hs,2,2,"[""mpb"", ""r-n-b""]",2,40,41,40.5,2,1,[],0,0.5
+6ty2XoMAhwS2WRevhjQeb3,2,2,"[""mpb"", ""samba""]",2,39,40,39.5,2,1,[],0,0.5
+2mLtn7zqcqalNZSfQZ62ko,2,2,"[""mpb"", ""samba""]",2,39,40,39.5,2,1,[],0,0.5
+7eR5i0UNKTG57MMLZJpeB6,2,2,"[""mpb"", ""samba""]",2,40,41,40.5,2,1,[],0,0.5
+2j7KVMviah3jDLrmtt7sx5,2,2,"[""mpb"", ""samba""]",2,39,40,39.5,2,1,[],0,0.5
+0aeeDPnPzocdl2htZwj2eE,2,2,"[""mpb"", ""samba""]",2,39,40,39.5,2,1,[],0,0.5
+2hxDGU9k4CTikQm1hOG5vc,2,2,"[""mpb"", ""r-n-b""]",2,40,41,40.5,2,1,[],0,0.5
+5enNdx4oAh9GK3sXWzpge4,2,2,"[""mpb"", ""r-n-b""]",2,40,41,40.5,2,1,[],0,0.5
+48NmUbjBeqaHbYJwl8xFm4,2,2,"[""mpb"", ""r-n-b""]",2,40,41,40.5,2,1,[],0,0.5
+0NCZVHXx8S4964Fsy5gayQ,2,2,"[""mpb"", ""r-n-b""]",2,40,41,40.5,2,1,[],0,0.5
+4Rgn0DSa3JAXGlJe8dTLKS,2,2,"[""mpb"", ""samba""]",2,39,40,39.5,2,1,[],0,0.5
+2m9u9utG8EItr05vCBKbYy,2,2,"[""mpb"", ""samba""]",2,38,39,38.5,2,1,[],0,0.5
+44SjBW2nkviJexwZssQ1Fi,2,2,"[""mpb"", ""samba""]",2,38,39,38.5,2,1,[],0,0.5
+1GU90z6vuJ8XtQu0XLzyDH,3,2,"[""opera"", ""show-tunes""]",2,24,25,24.5,2,1,[],0,0.5
+5lkDeLVqRKlrBhHUecobqn,2,2,"[""opera"", ""show-tunes""]",2,21,22,21.5,2,1,[],0,0.5
+0sRAXMfrDR9eg5jgMyjp6P,2,2,"[""pagode"", ""sertanejo""]",2,48,49,48.5,2,1,[],0,0.5
+7KEN7S7Tg4BXgghYZcinS9,2,2,"[""pagode"", ""sertanejo""]",2,48,49,48.5,2,1,[],0,0.5
+1cw2CLeQlhYbJmSbi2lxxD,2,2,"[""pagode"", ""sertanejo""]",2,47,48,47.5,2,1,[],0,0.5
+0TdVVky1bm2HnamYfkk8X7,2,2,"[""pagode"", ""samba""]",2,46,47,46.5,2,1,[],0,0.5
+5Q1fqIi57sHMKThqF1gsmO,2,2,"[""pagode"", ""samba""]",2,46,47,46.5,2,1,[],0,0.5
+4x846NsuIJW6tSxXgL7EWc,2,2,"[""pagode"", ""samba""]",2,44,45,44.5,2,1,[],0,0.5
+7403W5ylwNjRRUm8aIUNHR,3,3,"[""pagode"", ""samba"", ""sertanejo""]",3,45,46,45.0,2,1,[],0,1.0
+6fbCGwvj2V5JXYFovauhUr,2,2,"[""pagode"", ""samba""]",2,45,46,45.5,2,1,[],0,0.5
+4q3FCy1LpkERlvZ6wTscLe,2,2,"[""pagode"", ""samba""]",2,44,45,44.5,2,1,[],0,0.5
+5BrWiBVIvZrhyx6ZKrfp3l,2,2,"[""pagode"", ""samba""]",2,44,45,44.5,2,1,[],0,0.5
+6Pbve0TrBzMtFYxbgxDWBQ,3,3,"[""pagode"", ""reggae"", ""samba""]",3,44,45,44.0,2,1,[],0,1.0
+2psZoO64a0RDL0iRYVTq1D,2,2,"[""pagode"", ""samba""]",2,44,45,44.5,2,1,[],0,0.5
+6rbkRZKovJISNCd5cZtOMP,2,2,"[""pagode"", ""samba""]",2,44,45,44.5,2,1,[],0,0.5
+5vJfgrUz8nwQ1Hbhmkr1zG,2,2,"[""pagode"", ""sertanejo""]",2,44,45,44.5,2,1,[],0,0.5
+4CYQUeKtH5nAKUfLrePjEL,2,2,"[""pagode"", ""samba""]",2,44,45,44.5,2,1,[],0,0.5
+3Ayrd8prgnUYU4ErMgflBV,2,2,"[""pagode"", ""samba""]",2,43,44,43.5,2,1,[],0,0.5
+6KvptoDIpcEw0wfRKbn5CL,2,2,"[""pagode"", ""samba""]",2,42,43,42.5,2,1,[],0,0.5
+2YCx4I27GMSixz9IEwGqGP,2,2,"[""pagode"", ""samba""]",2,43,44,43.5,2,1,[],0,0.5
+4zS9qMw5JIQBNU2eiVvskr,2,2,"[""pagode"", ""samba""]",2,42,43,42.5,2,1,[],0,0.5
+5wb5EoYiy9Dyec6tdrx8B3,2,2,"[""pagode"", ""samba""]",2,42,43,42.5,2,1,[],0,0.5
+5Hmg9uA2YvrRSxH5WBD5WU,2,2,"[""pagode"", ""samba""]",2,42,43,42.5,2,1,[],0,0.5
+0cocZBknjka59p58FOdqef,2,2,"[""pagode"", ""samba""]",2,41,42,41.5,2,1,[],0,0.5
+7k8ACYfxa2aobtxHnBg1vl,2,2,"[""pagode"", ""samba""]",2,42,43,42.5,2,1,[],0,0.5
+7fLmEh9XCD83rrP8XJEL5r,2,2,"[""pagode"", ""samba""]",2,42,43,42.5,2,1,[],0,0.5
+3Hvhm0NXjx5mI0OOkPk06E,2,2,"[""pagode"", ""samba""]",2,42,43,42.5,2,1,[],0,0.5
+5MN4Z7ZCqfL0XMKsmR3l8o,2,2,"[""pagode"", ""samba""]",2,41,42,41.5,2,1,[],0,0.5
+2KDh8WCdnPKTQz2lvIL2bv,2,2,"[""pagode"", ""samba""]",2,40,41,40.5,2,1,[],0,0.5
+0j2eKSvuS4psRyb5czaEee,2,2,"[""party"", ""techno""]",2,29,30,29.5,2,1,[],0,0.5
+0VBe5Wi5e0Gc3BD1MIos0i,2,2,"[""piano"", ""rock""]",2,1,2,1.5,2,1,[],0,0.5
+4FJFz3htV3dahKGoa2mGzh,2,2,"[""piano"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+2s3Hr38fRfDRj9JWVP494L,2,2,"[""piano"", ""rock""]",2,7,14,10.5,2,7,[],0,3.5
+0sBJA2OCEECMs0HsdIQhvR,2,2,"[""piano"", ""rock""]",2,76,77,76.5,2,1,[],0,0.5
+5W8HXMOMLtXLz0RGKUtnlZ,2,2,"[""piano"", ""rock""]",2,72,73,72.5,2,1,[],0,0.5
+49MHCPzvMLXhRjDantBMVH,3,3,"[""piano"", ""singer-songwriter"", ""songwriter""]",3,71,72,71.0,2,1,[],0,1.0
+2fywBLXK9GQi8YR8C8d3c4,2,2,"[""piano"", ""punk-rock""]",2,52,53,52.5,2,1,[],0,0.5
+4aWE5S8LTbTBeR1o44ozLu,2,2,"[""piano"", ""punk-rock""]",2,22,23,22.5,2,1,[],0,0.5
+0T5iIrXA4p5GsubkhuBIKV,3,3,"[""pop"", ""singer-songwriter"", ""songwriter""]",3,89,90,89.0,2,1,[],0,1.0
+04V3hO138BCddFy9TmTUic,3,3,"[""pop"", ""reggae"", ""reggaeton""]",3,5,6,6.0,2,1,[],0,0.0
+4ebcE2SmkG7nplvzFAWRu7,2,2,"[""power-pop"", ""synth-pop""]",2,68,69,68.5,2,1,[],0,0.5
+4zciNpj3c6qIfiikaihQnO,2,2,"[""power-pop"", ""ska""]",2,32,33,32.5,2,1,[],0,0.5
+7fRvtXvJMpGfTLdF0M09a1,2,2,"[""power-pop"", ""synth-pop""]",2,65,66,65.5,2,1,[],0,0.5
+6hNjGPE8S1No2Evu4aPLjL,2,2,"[""power-pop"", ""synth-pop""]",2,29,30,29.5,2,1,[],0,0.5
+6NdcSEhpGGAYXNnnhGS2s6,2,2,"[""power-pop"", ""synth-pop""]",2,63,64,63.5,2,1,[],0,0.5
+54sy1DVLpbmEQ4d3kYsjH8,2,2,"[""power-pop"", ""synth-pop""]",2,23,24,23.5,2,1,[],0,0.5
+4b93D55xv3YCH5mT4p6HPn,2,2,"[""progressive-house"", ""techno""]",2,70,71,70.5,2,1,[],0,0.5
+5VIZnHRkpfZB9f4KoKomBx,2,2,"[""progressive-house"", ""trance""]",2,60,61,60.5,2,1,[],0,0.5
+32KpVkEKmO5g0t68o1gq23,2,2,"[""progressive-house"", ""trance""]",2,42,43,42.5,2,1,[],0,0.5
+15blW8gWnwnu96IVuHnWs2,2,2,"[""progressive-house"", ""trance""]",2,38,39,38.5,2,1,[],0,0.5
+1U0WQ4RwkVkKXu3uOY3fdQ,2,2,"[""progressive-house"", ""trance""]",2,36,37,36.5,2,1,[],0,0.5
+3wvo6Fh3RBn5t60p3iK16Z,2,2,"[""progressive-house"", ""trance""]",2,38,39,38.5,2,1,[],0,0.5
+6Pyb3IExfdj8CSjQeN3455,2,2,"[""progressive-house"", ""trance""]",2,37,38,37.5,2,1,[],0,0.5
+5x4wjHroFa5k0gUCzpYZAn,2,2,"[""progressive-house"", ""trance""]",2,40,41,40.5,2,1,[],0,0.5
+3IgXAJImaSIZ8pBF1z1Ucv,2,2,"[""progressive-house"", ""trance""]",2,36,37,36.5,2,1,[],0,0.5
+0BhLfxWA4TwGu8bGVKBotN,2,2,"[""progressive-house"", ""trance""]",2,0,27,13.5,2,27,[],0,13.5
+26rzkGV7pXYOIr4hUg8Mbb,2,2,"[""progressive-house"", ""trance""]",2,0,3,1.5,2,3,[],0,1.5
+3l1cyMgi27bv1KIP10cqOW,2,2,"[""progressive-house"", ""trance""]",2,0,7,3.5,2,7,[],0,3.5
+5ZQUoZUqQ1D7QiSOmtQCoI,2,2,"[""progressive-house"", ""trance""]",2,31,32,31.5,2,1,[],0,0.5
+1UktZnwuS1reRmRtli8QS9,2,2,"[""progressive-house"", ""trance""]",2,0,5,2.5,2,5,[],0,2.5
+6vM3LS50ZghrtkTKBvm2Kd,2,2,"[""progressive-house"", ""trance""]",2,0,2,1.0,2,2,[],0,1.0
+68wA3be5nyIqyHvukORvqK,2,2,"[""progressive-house"", ""trance""]",2,32,33,32.5,2,1,[],0,0.5
+2i6vQrYVULLekBceqmCNwT,2,2,"[""progressive-house"", ""trance""]",2,0,3,1.5,2,3,[],0,1.5
+6N2dua8p7nL9T67WITwaIY,2,2,"[""progressive-house"", ""trance""]",2,0,2,1.0,2,2,[],0,1.0
+4e6fdJaczDlNjMvNwVMSVD,2,2,"[""progressive-house"", ""trance""]",2,0,2,1.0,2,2,[],0,1.0
+6T0e1wKkONiIZQ1FTjMlGZ,2,2,"[""progressive-house"", ""trance""]",2,0,4,2.0,2,4,[],0,2.0
+4LTFOJjQt0wSunlfvIuCYe,2,2,"[""progressive-house"", ""trance""]",2,40,41,40.5,2,1,[],0,0.5
+5fMy36xPHP4PEgsirxLmma,2,2,"[""progressive-house"", ""trance""]",2,0,5,2.5,2,5,[],0,2.5
+6tDtuaCX0sIea6o8Qmpyae,2,2,"[""progressive-house"", ""trance""]",2,0,5,2.5,2,5,[],0,2.5
+1rBJb3j8zvMlwIxmozOE7d,2,2,"[""progressive-house"", ""trance""]",2,0,2,1.0,2,2,[],0,1.0
+2fAMFVfSiadA8FUlQTx1bW,2,2,"[""progressive-house"", ""trance""]",2,0,2,1.0,2,2,[],0,1.0
+0LCNtzhgRDbCpcfMAWL61u,2,2,"[""progressive-house"", ""trance""]",2,37,38,37.5,2,1,[],0,0.5
+0aeqKlSGQgi6Dwr87N3LNq,2,2,"[""progressive-house"", ""trance""]",2,0,5,2.5,2,5,[],0,2.5
+3keynY7XZqJtdRZVnnLRKc,2,2,"[""progressive-house"", ""trance""]",2,42,43,42.5,2,1,[],0,0.5
+2YYVPeCDpnCKo7mMnY4T4m,2,2,"[""progressive-house"", ""trance""]",2,38,39,38.5,2,1,[],0,0.5
+5DUOMqtIps27xFZvCxGWSD,2,2,"[""progressive-house"", ""trance""]",2,33,34,33.5,2,1,[],0,0.5
+2ZFx4terxlW3FNY25kpy71,2,2,"[""progressive-house"", ""trance""]",2,0,1,0.5,2,1,[],0,0.5
+3GmVvoNGooqTx3fV2H1rjU,2,2,"[""progressive-house"", ""trance""]",2,32,33,32.5,2,1,[],0,0.5
+4eO3uE6IJVbT5Xex1DrmbE,2,2,"[""progressive-house"", ""trance""]",2,33,34,33.5,2,1,[],0,0.5
+2PVA13ykYYHeXKlIsx2Vjk,2,2,"[""progressive-house"", ""trance""]",2,0,3,1.5,2,3,[],0,1.5
+3LNJXM1TJlksK5WnabNqDg,2,2,"[""progressive-house"", ""trance""]",2,0,4,2.0,2,4,[],0,2.0
+2DnINK9YPAgEpT9hP5cWqc,2,2,"[""progressive-house"", ""trance""]",2,38,39,38.5,2,1,[],0,0.5
+2o7xb3qaBMnGicq3T4XEWv,2,2,"[""progressive-house"", ""trance""]",2,0,1,0.5,2,1,[],0,0.5
+7GXsxXkvOvSN8qyOtidFDQ,2,2,"[""progressive-house"", ""trance""]",2,38,39,38.5,2,1,[],0,0.5
+48AOncBL3ZkSCJLzEh1OdO,2,2,"[""progressive-house"", ""trance""]",2,0,2,1.0,2,2,[],0,1.0
+3et3ldx15qAilZa1ErXaS8,2,2,"[""progressive-house"", ""trance""]",2,0,1,0.5,2,1,[],0,0.5
+5xKGdGXYh3LRYTzwVZSb0u,2,2,"[""progressive-house"", ""trance""]",2,0,1,0.5,2,1,[],0,0.5
+2sscCAOTZOYW5N8MlNKbyQ,2,2,"[""progressive-house"", ""trance""]",2,34,35,34.5,2,1,[],0,0.5
+0moqpuDhgttCjbCW9eYtNq,2,2,"[""progressive-house"", ""trance""]",2,58,59,58.5,2,1,[],0,0.5
+7vcXWUS5ML6dJ3nkvSc9aR,2,2,"[""progressive-house"", ""trance""]",2,39,40,39.5,2,1,[],0,0.5
+2WyKvnMEF9H8CKHvmAXSm3,2,2,"[""progressive-house"", ""trance""]",2,50,51,50.5,2,1,[],0,0.5
+7mnKyGfRTHjZo9fYpb9WeX,2,2,"[""progressive-house"", ""trance""]",2,10,11,10.5,2,1,[],0,0.5
+2isunnayB7fJUBhTLnbGYi,2,2,"[""progressive-house"", ""trance""]",2,35,36,35.5,2,1,[],0,0.5
+35je53nGcUJwuA0sF5lr9u,2,2,"[""progressive-house"", ""trance""]",2,51,52,51.5,2,1,[],0,0.5
+7hoE6tBvjppcNyVQEaLoKc,2,2,"[""progressive-house"", ""trance""]",2,10,11,10.5,2,1,[],0,0.5
+6yf6FF8BxqLqEr87RFY96m,2,2,"[""progressive-house"", ""trance""]",2,52,53,52.5,2,1,[],0,0.5
+7cdA1Rzltz10frwA33DcQH,2,2,"[""progressive-house"", ""trance""]",2,37,38,37.5,2,1,[],0,0.5
+0vrubfVLTbMi3GQilZaiOq,2,2,"[""progressive-house"", ""trance""]",2,36,37,36.5,2,1,[],0,0.5
+5HNCy40Ni5BZJFw1TKzRsC,2,2,"[""psych-rock"", ""rock""]",2,73,74,73.5,2,1,[],0,0.5
+2Bdbwlnv6npGzYFS20DfF3,2,2,"[""psych-rock"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+0RiwdaRaTefCfqsmk5AxvD,2,2,"[""psych-rock"", ""rock""]",2,0,1,0.5,2,1,[],0,0.5
+294JL3Xexu3sVRH9tpn60G,2,2,"[""psych-rock"", ""turkish""]",2,46,47,46.5,2,1,[],0,0.5
+53XpYnPMm9sDql7MDj97yJ,2,2,"[""psych-rock"", ""turkish""]",2,37,38,37.5,2,1,[],0,0.5
+3dFyht4qagMu8Q2Ewoj9Wg,2,2,"[""psych-rock"", ""rockabilly""]",2,25,26,25.5,2,1,[],0,0.5
+3CmUas41TD2t8EGNZ85J9f,3,3,"[""punk"", ""punk-rock"", ""rock""]",3,2,3,3.0,2,1,[],0,0.0
+3IgHYw4c6PJ5ZZscM1158w,3,3,"[""punk"", ""punk-rock"", ""rock""]",3,1,2,2.0,2,1,[],0,0.0
+1jJ893m6WM9aztKtzYmNJY,3,3,"[""punk"", ""punk-rock"", ""rock""]",3,1,2,2.0,2,1,[],0,0.0
+4B8ROu7Pp6tbRMzbJQGixj,3,3,"[""punk"", ""punk-rock"", ""rock""]",3,3,4,4.0,2,1,[],0,0.0
+5XRNXsQhowtR0AbhaI7kIb,3,3,"[""punk"", ""punk-rock"", ""rock""]",3,1,2,2.0,2,1,[],0,0.0
+1AdYZ6X00nXmO613Y7GJOl,2,2,"[""punk"", ""punk-rock""]",2,77,78,77.5,2,1,[],0,0.5
+0WQiDwKJclirSYG9v5tayI,2,2,"[""punk"", ""punk-rock""]",2,80,81,80.5,2,1,[],0,0.5
+2m1hi0nfMR9vdGC8UcrnwU,2,2,"[""punk"", ""punk-rock""]",2,82,83,82.5,2,1,[],0,0.5
+2Cdvbe2G4hZsnhNMKyGrie,2,2,"[""punk"", ""punk-rock""]",2,77,78,77.5,2,1,[],0,0.5
+7FjBkz3OJiknpx1jtNkIFs,2,2,"[""punk-rock"", ""ska""]",2,4,7,5.5,2,3,[],0,1.5
+55Fpeuuc2sbQiy74eA1gTt,2,2,"[""punk"", ""punk-rock""]",2,62,63,62.5,2,1,[],0,0.5
+3V33m9n9gtnal5rSwdLjYt,2,2,"[""punk"", ""punk-rock""]",2,45,46,45.5,2,1,[],0,0.5
+4W3kCjcFMvFEW0p4BJfKOx,3,3,"[""punk"", ""punk-rock"", ""ska""]",3,0,1,1.0,2,1,[],0,0.0
+0kjhON7m0xrGhhoOaC8OAE,2,2,"[""punk"", ""punk-rock""]",2,43,44,43.5,2,1,[],0,0.5
+5jzma6gCzYtKB1DbEwFZKH,2,2,"[""punk"", ""punk-rock""]",2,72,73,72.5,2,1,[],0,0.5
+6ZOzWPUbMxH24uWHP1k5Eq,3,3,"[""punk"", ""punk-rock"", ""ska""]",3,44,45,44.0,2,1,[],0,1.0
+3MOKBkpsarb0AfAABcLAsn,2,2,"[""punk"", ""punk-rock""]",2,63,64,63.5,2,1,[],0,0.5
+4NnWuGQujzWUEg0uZokO5M,2,2,"[""punk"", ""punk-rock""]",2,72,73,72.5,2,1,[],0,0.5
+7sziTn5nHwrWf4K7gISaaU,2,2,"[""punk"", ""punk-rock""]",2,61,62,61.5,2,1,[],0,0.5
+5zTirec9tIsSVNgBSUmFxU,2,2,"[""punk"", ""punk-rock""]",2,42,43,42.5,2,1,[],0,0.5
+6OMBhRhwg6cnWR9ghrTubA,2,2,"[""punk"", ""punk-rock""]",2,55,56,55.5,2,1,[],0,0.5
+1Dti4H4XC1IetaCDpI8MU0,3,3,"[""punk"", ""punk-rock"", ""ska""]",3,41,42,41.0,2,1,[],0,1.0
+4SbQ9hU0Ve1gT1kAni022P,2,2,"[""punk"", ""punk-rock""]",2,41,42,41.5,2,1,[],0,0.5
+5Q943XYZo0Xvq4qUQebmWC,2,2,"[""punk-rock"", ""ska""]",2,40,41,40.5,2,1,[],0,0.5
+2pahOrjr32LVOBfrpZIeoY,3,3,"[""punk"", ""punk-rock"", ""ska""]",3,40,41,40.0,2,1,[],0,1.0
+5dAMXZx98EA6x3MiqGt2DY,2,2,"[""punk"", ""punk-rock""]",2,40,41,40.5,2,1,[],0,0.5
+5YMoQXGtn0cBUQQZX77NrL,2,2,"[""punk"", ""punk-rock""]",2,40,41,40.5,2,1,[],0,0.5
+72I5gb06T9KIESon4AWY8S,2,2,"[""punk"", ""punk-rock""]",2,58,59,58.5,2,1,[],0,0.5
+6JgHKt0WwdwlXIht6M0mqa,2,2,"[""punk"", ""punk-rock""]",2,63,64,63.5,2,1,[],0,0.5
+4VgdhAy0DBSF5hbbKzTEdS,2,2,"[""punk"", ""punk-rock""]",2,59,60,59.5,2,1,[],0,0.5
+0bGIiqXgKcQ2zvGc5PVnXc,2,2,"[""punk"", ""punk-rock""]",2,39,40,39.5,2,1,[],0,0.5
+4wlPXKxC2oeiYYPldZaR0s,2,2,"[""punk"", ""punk-rock""]",2,41,42,41.5,2,1,[],0,0.5
+4gVwRSCyE40hU3cq8qdkwD,2,2,"[""punk"", ""punk-rock""]",2,48,49,48.5,2,1,[],0,0.5
+34MW1U9wuBRheRZ28ZlX94,2,2,"[""punk"", ""punk-rock""]",2,39,40,39.5,2,1,[],0,0.5
+4v1Mn3RGGbSlCqangJrSnJ,2,2,"[""punk"", ""punk-rock""]",2,39,40,39.5,2,1,[],0,0.5
+5pcfYLrIw2w5TmmDBkKDkB,2,2,"[""punk"", ""punk-rock""]",2,38,39,38.5,2,1,[],0,0.5
+4q6ZHerrtO7gcF67KFX0BF,2,2,"[""punk"", ""punk-rock""]",2,39,40,39.5,2,1,[],0,0.5
+3bZ71uzfkL02az18Gi1ZdF,2,2,"[""punk"", ""punk-rock""]",2,38,39,38.5,2,1,[],0,0.5
+5wox6DMRibm9xFZklhWmSZ,2,2,"[""punk"", ""punk-rock""]",2,38,39,38.5,2,1,[],0,0.5
+69Kzq3FMkDwiSFBQzRckFD,2,2,"[""punk"", ""punk-rock""]",2,69,70,69.5,2,1,[],0,0.5
+6iXXwXnXktrdJrGbiBdBvp,2,2,"[""punk"", ""punk-rock""]",2,37,38,37.5,2,1,[],0,0.5
+6w69nqXMAyHsKmdkt3R8uG,2,2,"[""punk"", ""punk-rock""]",2,37,38,37.5,2,1,[],0,0.5
+1gQ0W0XKnOUpmcD5Vzs8e7,2,2,"[""punk"", ""punk-rock""]",2,37,38,37.5,2,1,[],0,0.5
+10lP5x0csV13P1aZyLYADs,2,2,"[""punk"", ""punk-rock""]",2,54,55,54.5,2,1,[],0,0.5
+0UwRzR2jkEt3Z9Kz0VWMDa,2,2,"[""punk"", ""punk-rock""]",2,36,37,36.5,2,1,[],0,0.5
+3bBXlTx0UWIb8tITXofKLQ,2,2,"[""punk"", ""punk-rock""]",2,36,37,36.5,2,1,[],0,0.5
+6RBLcDQvA3VgQ8vHoXoo0v,2,2,"[""punk"", ""ska""]",2,37,38,37.5,2,1,[],0,0.5
+2hnMS47jN0etwvFPzYk11f,2,2,"[""punk"", ""ska""]",2,77,78,77.5,2,1,[],0,0.5
+25tFLO2t30VhgAqLrjFMfs,2,2,"[""punk"", ""swedish""]",2,37,38,37.5,2,1,[],0,0.5
+0xad4yuDkjVlI53EIIkoIW,2,2,"[""r-n-b"", ""ska""]",2,41,42,41.5,2,1,[],0,0.5
+51R9caoQ0l5bZ1ahBeqJq9,2,2,"[""reggae"", ""reggaeton""]",2,0,1,0.5,2,1,[],0,0.5
+5OOPYQor9kRh18B73f2Vci,2,2,"[""reggae"", ""reggaeton""]",2,0,1,0.5,2,1,[],0,0.5
